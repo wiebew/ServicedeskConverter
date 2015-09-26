@@ -1,0 +1,609 @@
+Id	Omschrijving	Status	RfcId	HpSvcId
+24	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	71.005	774.325
+25	99 AP-Model Evaluatie	Wacht op uitvoering	71.005	774.324
+26	80 AP-Model  Accepteren van de wijziging	In uitvoering	71.005	774.326
+27	60 AP-Model Implementeren op productie	In uitvoering	71.006	774.347
+28	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	71.006	774.346
+29	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	71.006	774.345
+30	99 AP-Model Evaluatie	Wacht op uitvoering	71.006	774.344
+31	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.052	774.737
+32	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.052	774.736
+33	80 Verkort model Acceptatie vd wijziging	In uitvoering	71.052	774.738
+34	80 Verkort model Acceptatie vd wijziging	In uitvoering	69.445	756.529
+35	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	69.445	756.528
+36	99 Verkort model  Evaluatie 	Wacht op uitvoering	69.445	756.527
+37	99 Verkort model  Evaluatie 	Wacht op uitvoering	70.745	771.409
+38	90 Verkort model Bijwerken CMDB	In uitvoering	70.745	771.410
+39	50 OTAP Vrijgave wijziging	Wacht op uitvoering	69.442	756.466
+40	60 OTAP Implementeren op productie	Wacht op uitvoering	69.442	756.465
+41	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	69.442	756.462
+42	90 OTAP Bijwerken CMDB	Wacht op uitvoering	69.442	756.463
+43	45 OTAP GAT test	Wacht op uitvoering	69.442	756.467
+44	30 OTAP Implementeren op test	In uitvoering	69.442	756.470
+45	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	69.442	756.468
+46	35 OTAP Functionele test	Wacht op uitvoering	69.442	756.469
+47	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	69.442	756.464
+48	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	69.448	756.561
+49	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	69.448	756.555
+50	90 OTAP Bijwerken CMDB	Wacht op uitvoering	69.448	756.556
+51	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	69.448	756.557
+52	60 OTAP Implementeren op productie	Wacht op uitvoering	69.448	756.558
+53	45 OTAP GAT test	Wacht op uitvoering	69.448	756.560
+54	35 OTAP Functionele test	Wacht op uitvoering	69.448	756.562
+55	30 OTAP Implementeren op test	In uitvoering	69.448	756.563
+56	50 OTAP Vrijgave wijziging	Wacht op uitvoering	69.448	756.559
+57	35 KPW Funct. test	In uitvoering	70.743	771.380
+58	45 KPW Gat test 	Wacht op uitvoering	70.743	771.379
+59	60 KPW Impl.op productie 	Wacht op uitvoering	70.743	771.378
+60	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.743	771.377
+61	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.048	774.695
+62	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.048	774.696
+63	50 Verkort Vrijgave wijziging	In uitvoering	71.048	774.699
+64	80 Verkort model Acceptatie vd wijziging	Wacht op uitvoering	71.048	774.697
+65	60 Verkort model Implementeren op productie	Wacht op uitvoering	71.048	774.698
+66	80 Verkort model Acceptatie vd wijziging	In uitvoering	69.478	756.912
+67	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	69.478	756.911
+68	99 Verkort model  Evaluatie 	Wacht op uitvoering	69.478	756.910
+69	80 Verkort model Acceptatie vd wijziging	In uitvoering	70.746	771.428
+70	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	70.746	771.427
+71	99 Verkort model  Evaluatie 	Wacht op uitvoering	70.746	771.426
+72	60 OTAP Implementeren op productie	Wacht op uitvoering	69.477	756.891
+73	35 OTAP Functionele test	Wacht op uitvoering	69.477	756.895
+74	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	69.477	756.888
+75	90 OTAP Bijwerken CMDB	Wacht op uitvoering	69.477	756.889
+76	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	69.477	756.890
+77	30 OTAP Implementeren op test	In uitvoering	69.477	756.896
+78	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	69.477	756.894
+79	50 OTAP Vrijgave wijziging	Wacht op uitvoering	69.477	756.892
+80	45 OTAP GAT test	Wacht op uitvoering	69.477	756.893
+81	45 OTAP GAT test	In uitvoering	69.479	756.921
+82	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	69.479	756.916
+83	90 OTAP Bijwerken CMDB	Wacht op uitvoering	69.479	756.917
+84	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	69.479	756.918
+85	50 OTAP Vrijgave wijziging	Wacht op uitvoering	69.479	756.920
+86	60 OTAP Implementeren op productie	Wacht op uitvoering	69.479	756.919
+87	60 KPW Impl.op productie 	Wacht op uitvoering	70.744	771.394
+88	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.744	771.393
+89	45 KPW Gat test 	Wacht op uitvoering	70.744	771.395
+90	35 KPW Funct. test	In uitvoering	70.744	771.396
+91	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.047	774.678
+92	50 Verkort Vrijgave wijziging	In uitvoering	71.047	774.682
+93	60 Verkort model Implementeren op productie	Wacht op uitvoering	71.047	774.681
+94	80 Verkort model Acceptatie vd wijziging	Wacht op uitvoering	71.047	774.680
+95	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.047	774.679
+96	99 AP-Model Evaluatie	Wacht op uitvoering	70.823	772.407
+97	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	70.823	772.408
+98	80 AP-Model  Accepteren van de wijziging	In uitvoering	70.823	772.409
+99	90 Verkort model Bijwerken CMDB	In uitvoering	70.911	773.382
+100	99 Verkort model  Evaluatie 	Wacht op uitvoering	70.911	773.381
+101	50 AP-Model Vrijgave wijziging	In uitvoering	70.829	772.485
+102	60 AP-Model Implementeren op productie	Wacht op uitvoering	70.829	772.484
+103	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	70.829	772.483
+104	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	70.829	772.482
+105	99 AP-Model Evaluatie	Wacht op uitvoering	70.829	772.481
+106	60 AP-Model Implementeren op productie	Wacht op uitvoering	70.830	772.504
+107	99 AP-Model Evaluatie	Wacht op uitvoering	70.830	772.501
+108	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	70.830	772.503
+109	50 AP-Model Vrijgave wijziging	In uitvoering	70.830	772.505
+110	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	70.830	772.502
+111	40 OTAP Implementeren op acceptatie	In uitvoering	68.523	745.586
+112	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.523	745.581
+113	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.523	745.582
+114	60 OTAP Implementeren op productie	Wacht op uitvoering	68.523	745.583
+115	45 OTAP GAT test	Wacht op uitvoering	68.523	745.585
+116	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.523	745.580
+117	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.523	745.584
+118	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	66.566	722.933
+119	60 KPW Impl.op productie 	Wacht op uitvoering	66.566	722.934
+120	35 KPW Funct. test	In uitvoering	66.566	722.936
+121	45 KPW Gat test 	Wacht op uitvoering	66.566	722.935
+122	35 KPW Funct. test	In uitvoering	66.567	722.941
+123	45 KPW Gat test 	Wacht op uitvoering	66.567	722.940
+124	60 KPW Impl.op productie 	Wacht op uitvoering	66.567	722.939
+125	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	66.567	722.938
+126	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	66.563	722.905
+127	20 KPW bouw	In uitvoering	66.563	722.909
+128	35 KPW Funct. test	Wacht op uitvoering	66.563	722.908
+129	45 KPW Gat test 	Wacht op uitvoering	66.563	722.907
+130	60 KPW Impl.op productie 	Wacht op uitvoering	66.563	722.906
+131	30 OTAP Implementeren op test	Wacht op uitvoering	66.568	722.951
+132	90 OTAP Bijwerken CMDB	Wacht op uitvoering	66.568	722.944
+133	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	66.568	722.945
+134	60 OTAP Implementeren op productie	Wacht op uitvoering	66.568	722.946
+135	50 OTAP Vrijgave wijziging	Wacht op uitvoering	66.568	722.947
+136	45 OTAP GAT test	Wacht op uitvoering	66.568	722.948
+137	35 OTAP Functionele test	Wacht op uitvoering	66.568	722.950
+138	20 OTAP Bouw	In uitvoering	66.568	722.952
+139	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	66.568	722.943
+140	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	66.568	722.949
+141	99 Verkort model  Evaluatie 	Wacht op uitvoering	66.569	722.954
+142	80 Verkort model Acceptatie vd wijziging	In uitvoering	66.569	722.956
+143	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	66.569	722.955
+144	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	68.442	744.580
+145	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	68.442	744.581
+146	45 AP-Model GAT test	In uitvoering	68.442	744.584
+147	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	68.442	744.583
+148	60 AP-Model Implementeren op productie	Wacht op uitvoering	68.442	744.582
+149	99 AP-Model Evaluatie	Wacht op uitvoering	68.442	744.579
+150	45 OTAP GAT test	In uitvoering	68.471	744.945
+151	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.471	744.944
+152	60 OTAP Implementeren op productie	Wacht op uitvoering	68.471	744.943
+153	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.471	744.942
+154	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.471	744.941
+155	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.471	744.940
+156	35 OTAP Functionele test	In uitvoering	68.474	744.972
+157	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.474	744.965
+158	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.474	744.966
+159	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.474	744.967
+160	60 OTAP Implementeren op productie	Wacht op uitvoering	68.474	744.968
+161	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.474	744.969
+162	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.474	744.971
+163	45 OTAP GAT test	Wacht op uitvoering	68.474	744.970
+164	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.479	745.030
+165	35 OTAP Functionele test	In uitvoering	68.479	745.035
+166	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.479	745.029
+167	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.479	745.028
+168	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.479	745.032
+169	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.479	745.034
+170	45 OTAP GAT test	Wacht op uitvoering	68.479	745.033
+171	60 OTAP Implementeren op productie	Wacht op uitvoering	68.479	745.031
+172	45 OTAP GAT test	In uitvoering	68.493	745.157
+173	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.493	745.156
+174	60 OTAP Implementeren op productie	Wacht op uitvoering	68.493	745.155
+175	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.493	745.154
+176	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.493	745.153
+177	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.493	745.152
+178	60 KPW Impl.op productie 	In uitvoering	68.995	750.909
+179	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.995	750.908
+180	35 OTAP Functionele test	In uitvoering	68.996	750.920
+181	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.996	750.913
+182	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.996	750.914
+183	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.996	750.915
+184	60 OTAP Implementeren op productie	Wacht op uitvoering	68.996	750.916
+185	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.996	750.917
+186	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.996	750.919
+187	45 OTAP GAT test	Wacht op uitvoering	68.996	750.918
+188	60 KPW Impl.op productie 	Wacht op uitvoering	69.289	754.429
+189	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	69.289	754.428
+190	60 KPW Impl.op productie 	Wacht op uitvoering	70.869	773.027
+191	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.869	773.026
+192	35 KPW Funct. test	In uitvoering	70.869	773.029
+193	45 KPW Gat test 	Wacht op uitvoering	70.869	773.028
+194	20 KPW bouw	In uitvoering	70.870	773.035
+195	35 KPW Funct. test	Wacht op uitvoering	70.870	773.034
+196	45 KPW Gat test 	Wacht op uitvoering	70.870	773.033
+197	60 KPW Impl.op productie 	Wacht op uitvoering	70.870	773.032
+198	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.870	773.031
+199	20 KPW bouw	In uitvoering	70.871	773.040
+200	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.871	773.036
+201	60 KPW Impl.op productie 	Wacht op uitvoering	70.871	773.037
+202	35 KPW Funct. test	Wacht op uitvoering	70.871	773.039
+203	45 KPW Gat test 	Wacht op uitvoering	70.871	773.038
+204	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.878	773.099
+205	35 KPW Funct. test	In uitvoering	70.878	773.102
+206	45 KPW Gat test 	Wacht op uitvoering	70.878	773.101
+207	60 KPW Impl.op productie 	Wacht op uitvoering	70.878	773.100
+208	50 OTAP Vrijgave wijziging	Wacht op uitvoering	70.873	773.056
+209	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	70.873	773.052
+210	60 OTAP Implementeren op productie	Wacht op uitvoering	70.873	773.055
+211	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	70.873	773.054
+212	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	70.873	773.058
+213	90 OTAP Bijwerken CMDB	Wacht op uitvoering	70.873	773.053
+214	35 OTAP Functionele test	Wacht op uitvoering	70.873	773.059
+215	30 OTAP Implementeren op test	Wacht op uitvoering	70.873	773.060
+216	20 OTAP Bouw	In uitvoering	70.873	773.061
+217	45 OTAP GAT test	Wacht op uitvoering	70.873	773.057
+218	80 Verkort model Acceptatie vd wijziging	In uitvoering	70.974	774.003
+219	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	70.974	774.002
+220	99 Verkort model  Evaluatie 	Wacht op uitvoering	70.974	774.001
+221	60 Verkort model Implementeren op productie	In uitvoering	70.864	772.991
+222	80 Verkort model Acceptatie vd wijziging	Wacht op uitvoering	70.864	772.990
+223	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	70.864	772.989
+224	99 Verkort model  Evaluatie 	Wacht op uitvoering	70.864	772.988
+225	60 KPW Impl.op productie 	Wacht op uitvoering	70.865	772.995
+226	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.865	772.994
+227	45 KPW Gat test 	Wacht op uitvoering	70.865	772.996
+228	35 KPW Funct. test	Wacht op uitvoering	70.865	772.997
+229	20 KPW bouw	In uitvoering	70.865	772.998
+230	35 KPW Funct. test	Wacht op uitvoering	70.867	773.007
+231	45 KPW Gat test 	Wacht op uitvoering	70.867	773.006
+232	60 KPW Impl.op productie 	Wacht op uitvoering	70.867	773.005
+233	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.867	773.004
+234	20 KPW bouw	In uitvoering	70.867	773.008
+235	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	70.879	773.104
+236	60 KPW Impl.op productie 	Wacht op uitvoering	70.879	773.105
+237	35 KPW Funct. test	In uitvoering	70.879	773.107
+238	45 KPW Gat test 	Wacht op uitvoering	70.879	773.106
+239	30 OTAP Implementeren op test	Wacht op uitvoering	70.868	773.017
+240	90 OTAP Bijwerken CMDB	Wacht op uitvoering	70.868	773.010
+241	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	70.868	773.011
+242	60 OTAP Implementeren op productie	Wacht op uitvoering	70.868	773.012
+243	50 OTAP Vrijgave wijziging	Wacht op uitvoering	70.868	773.013
+244	45 OTAP GAT test	Wacht op uitvoering	70.868	773.014
+245	35 OTAP Functionele test	Wacht op uitvoering	70.868	773.016
+246	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	70.868	773.009
+247	20 OTAP Bouw	In uitvoering	70.868	773.018
+248	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	70.868	773.015
+249	90 Verkort model Bijwerken CMDB	In uitvoering	68.854	749.045
+250	99 Verkort model  Evaluatie 	Wacht op uitvoering	68.854	749.044
+251	60 KPW Impl.op productie 	Wacht op uitvoering	68.855	749.051
+252	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.855	749.050
+253	45 KPW Gat test 	Wacht op uitvoering	68.855	749.052
+254	35 KPW Funct. test	In uitvoering	68.855	749.053
+255	45 KPW Gat test 	Wacht op uitvoering	68.856	749.057
+256	60 KPW Impl.op productie 	Wacht op uitvoering	68.856	749.056
+257	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.856	749.055
+258	35 KPW Funct. test	In uitvoering	68.856	749.058
+259	60 OTAP Implementeren op productie	Wacht op uitvoering	70.618	769.671
+260	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	70.618	769.668
+261	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	70.618	769.670
+262	50 OTAP Vrijgave wijziging	Wacht op uitvoering	70.618	769.672
+263	45 OTAP GAT test	In uitvoering	70.618	769.673
+264	90 OTAP Bijwerken CMDB	Wacht op uitvoering	70.618	769.669
+265	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.264	777.150
+266	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.264	777.149
+267	80 Verkort model Acceptatie vd wijziging	In uitvoering	71.264	777.151
+268	80 Verkort model Acceptatie vd wijziging	Wacht op uitvoering	71.265	777.168
+269	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.265	777.167
+270	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.265	777.166
+271	60 Verkort model Implementeren op productie	In uitvoering	71.265	777.169
+272	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.266	777.183
+273	80 Verkort model Acceptatie vd wijziging	In uitvoering	71.266	777.185
+274	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.266	777.184
+275	45 OTAP GAT test	Wacht op uitvoering	68.386	743.973
+276	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.386	743.968
+277	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.386	743.969
+278	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.386	743.970
+279	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.386	743.972
+280	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.386	743.974
+281	35 OTAP Functionele test	Wacht op uitvoering	68.386	743.975
+282	30 OTAP Implementeren op test	Wacht op uitvoering	68.386	743.976
+283	20 OTAP Bouw	In uitvoering	68.386	743.977
+284	60 OTAP Implementeren op productie	Wacht op uitvoering	68.386	743.971
+285	80 AP-Model  Accepteren van de wijziging	In uitvoering	66.630	723.607
+286	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	66.630	723.606
+287	99 AP-Model Evaluatie	Wacht op uitvoering	66.630	723.605
+288	60 KPW Impl.op productie 	In uitvoering	71.877	783.578
+289	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	71.877	783.577
+290	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	68.305	743.148
+291	99 Verkort model  Evaluatie 	Wacht op uitvoering	68.305	743.147
+292	80 Verkort model Acceptatie vd wijziging	In uitvoering	68.305	743.149
+293	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.300	743.113
+294	30 OTAP Implementeren op test	In uitvoering	68.300	743.120
+295	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.300	743.112
+296	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.300	743.114
+297	60 OTAP Implementeren op productie	Wacht op uitvoering	68.300	743.115
+298	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.300	743.116
+299	45 OTAP GAT test	Wacht op uitvoering	68.300	743.117
+300	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.300	743.118
+301	35 OTAP Functionele test	Wacht op uitvoering	68.300	743.119
+302	45 KPW Gat test 	Wacht op uitvoering	68.301	743.125
+303	60 KPW Impl.op productie 	Wacht op uitvoering	68.301	743.124
+304	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.301	743.123
+305	35 KPW Funct. test	In uitvoering	68.301	743.126
+306	35 KPW Funct. test	In uitvoering	68.302	743.131
+307	45 KPW Gat test 	Wacht op uitvoering	68.302	743.130
+308	60 KPW Impl.op productie 	Wacht op uitvoering	68.302	743.129
+309	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.302	743.128
+310	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.303	743.133
+311	60 KPW Impl.op productie 	Wacht op uitvoering	68.303	743.134
+312	45 KPW Gat test 	Wacht op uitvoering	68.303	743.135
+313	35 KPW Funct. test	In uitvoering	68.303	743.136
+314	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	62.004	673.678
+315	45 OTAP GAT test	Wacht op uitvoering	62.004	673.677
+316	50 OTAP Vrijgave wijziging	Wacht op uitvoering	62.004	673.676
+317	60 OTAP Implementeren op productie	Wacht op uitvoering	62.004	673.675
+318	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	62.004	673.674
+319	90 OTAP Bijwerken CMDB	Wacht op uitvoering	62.004	673.673
+320	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	62.004	673.672
+321	35 OTAP Functionele test	In uitvoering	62.004	673.679
+322	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	62.067	674.445
+323	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	62.067	674.439
+324	90 OTAP Bijwerken CMDB	Wacht op uitvoering	62.067	674.440
+325	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	62.067	674.441
+326	60 OTAP Implementeren op productie	Wacht op uitvoering	62.067	674.442
+327	45 OTAP GAT test	Wacht op uitvoering	62.067	674.444
+328	35 OTAP Functionele test	In uitvoering	62.067	674.446
+329	50 OTAP Vrijgave wijziging	Wacht op uitvoering	62.067	674.443
+330	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	62.068	674.452
+331	45 OTAP GAT test	Wacht op uitvoering	62.068	674.455
+332	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	62.068	674.450
+333	90 OTAP Bijwerken CMDB	Wacht op uitvoering	62.068	674.451
+334	50 OTAP Vrijgave wijziging	Wacht op uitvoering	62.068	674.454
+335	35 OTAP Functionele test	In uitvoering	62.068	674.457
+336	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	62.068	674.456
+337	60 OTAP Implementeren op productie	Wacht op uitvoering	62.068	674.453
+338	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	65.265	708.449
+339	99 AP-Model Evaluatie	Wacht op uitvoering	65.265	708.445
+340	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	65.265	708.446
+341	60 AP-Model Implementeren op productie	Wacht op uitvoering	65.265	708.448
+342	45 AP-Model GAT test	In uitvoering	65.265	708.450
+343	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	65.265	708.447
+344	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	65.266	708.465
+345	35 KPW Funct. test	In uitvoering	65.266	708.468
+346	45 KPW Gat test 	Wacht op uitvoering	65.266	708.467
+347	60 KPW Impl.op productie 	Wacht op uitvoering	65.266	708.466
+348	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	65.267	708.472
+349	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	65.267	708.470
+350	90 OTAP Bijwerken CMDB	Wacht op uitvoering	65.267	708.471
+351	60 OTAP Implementeren op productie	Wacht op uitvoering	65.267	708.473
+352	45 OTAP GAT test	In uitvoering	65.267	708.475
+353	50 OTAP Vrijgave wijziging	Wacht op uitvoering	65.267	708.474
+354	35 KPW Funct. test	In uitvoering	65.269	708.511
+355	45 KPW Gat test 	Wacht op uitvoering	65.269	708.510
+356	60 KPW Impl.op productie 	Wacht op uitvoering	65.269	708.509
+357	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	65.269	708.508
+358	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	64.093	695.469
+359	60 OTAP Implementeren op productie	Wacht op uitvoering	64.093	695.470
+360	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	64.093	695.467
+361	50 OTAP Vrijgave wijziging	Wacht op uitvoering	64.093	695.471
+362	40 OTAP Implementeren op acceptatie	In uitvoering	64.093	695.473
+363	45 OTAP GAT test	Wacht op uitvoering	64.093	695.472
+364	90 OTAP Bijwerken CMDB	Wacht op uitvoering	64.093	695.468
+365	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	64.095	695.512
+366	20 KPW bouw	In uitvoering	64.095	695.516
+367	35 KPW Funct. test	Wacht op uitvoering	64.095	695.515
+368	45 KPW Gat test 	Wacht op uitvoering	64.095	695.514
+369	60 KPW Impl.op productie 	Wacht op uitvoering	64.095	695.513
+370	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	64.345	698.436
+371	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	64.345	698.435
+372	99 AP-Model Evaluatie	Wacht op uitvoering	64.345	698.434
+373	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	64.345	698.438
+374	45 AP-Model GAT test	In uitvoering	64.345	698.439
+375	60 AP-Model Implementeren op productie	Wacht op uitvoering	64.345	698.437
+376	60 OTAP Implementeren op productie	Wacht op uitvoering	69.203	753.454
+377	90 OTAP Bijwerken CMDB	Wacht op uitvoering	69.203	753.452
+378	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	69.203	753.451
+379	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	69.203	753.453
+380	45 OTAP GAT test	Wacht op uitvoering	69.203	753.456
+381	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	69.203	753.457
+382	35 OTAP Functionele test	In uitvoering	69.203	753.458
+383	50 OTAP Vrijgave wijziging	Wacht op uitvoering	69.203	753.455
+384	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	69.200	753.432
+385	60 KPW Impl.op productie 	Wacht op uitvoering	69.200	753.433
+386	45 KPW Gat test 	Wacht op uitvoering	69.200	753.434
+387	35 KPW Funct. test	In uitvoering	69.200	753.435
+388	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	69.202	753.446
+389	99 AP-Model Evaluatie	Wacht op uitvoering	69.202	753.442
+390	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	69.202	753.443
+391	60 AP-Model Implementeren op productie	Wacht op uitvoering	69.202	753.445
+392	45 AP-Model GAT test	In uitvoering	69.202	753.447
+393	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	69.202	753.444
+394	90 Verkort model Bijwerken CMDB	In uitvoering	68.810	748.646
+395	99 Verkort model  Evaluatie 	Wacht op uitvoering	68.810	748.645
+396	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.806	748.617
+397	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.806	748.614
+398	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.806	748.613
+399	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.806	748.615
+400	60 OTAP Implementeren op productie	Wacht op uitvoering	68.806	748.616
+401	45 OTAP GAT test	Wacht op uitvoering	68.806	748.618
+402	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.806	748.619
+403	35 OTAP Functionele test	Wacht op uitvoering	68.806	748.620
+404	20 OTAP Bouw	In uitvoering	68.806	748.622
+405	30 OTAP Implementeren op test	Wacht op uitvoering	68.806	748.621
+406	20 KPW bouw	In uitvoering	68.807	748.628
+407	35 KPW Funct. test	Wacht op uitvoering	68.807	748.627
+408	45 KPW Gat test 	Wacht op uitvoering	68.807	748.626
+409	60 KPW Impl.op productie 	Wacht op uitvoering	68.807	748.625
+410	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.807	748.624
+411	45 KPW Gat test 	Wacht op uitvoering	68.809	748.642
+412	60 KPW Impl.op productie 	Wacht op uitvoering	68.809	748.641
+413	35 KPW Funct. test	In uitvoering	68.809	748.643
+414	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.809	748.640
+415	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	63.773	692.223
+416	50 OTAP Vrijgave wijziging	Wacht op uitvoering	63.773	692.227
+417	60 OTAP Implementeren op productie	Wacht op uitvoering	63.773	692.226
+418	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	63.773	692.225
+419	90 OTAP Bijwerken CMDB	Wacht op uitvoering	63.773	692.224
+420	99 AP-Model Evaluatie	Wacht op uitvoering	64.341	698.386
+421	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	64.341	698.387
+422	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	64.341	698.388
+423	60 AP-Model Implementeren op productie	Wacht op uitvoering	64.341	698.389
+424	45 AP-Model GAT test	In uitvoering	64.341	698.391
+425	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	64.341	698.390
+426	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.911	749.773
+427	60 OTAP Implementeren op productie	Wacht op uitvoering	68.911	749.770
+428	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.911	749.767
+429	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.911	749.768
+430	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.911	749.769
+431	45 OTAP GAT test	Wacht op uitvoering	68.911	749.772
+432	20 OTAP Bouw	In uitvoering	68.911	749.776
+433	35 OTAP Functionele test	Wacht op uitvoering	68.911	749.774
+434	30 OTAP Implementeren op test	Wacht op uitvoering	68.911	749.775
+435	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.911	749.771
+436	60 OTAP Implementeren op productie	Wacht op uitvoering	71.718	781.790
+437	50 OTAP Vrijgave wijziging	Wacht op uitvoering	71.718	781.791
+438	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	71.718	781.789
+439	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	71.718	781.787
+440	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	71.718	781.793
+441	35 OTAP Functionele test	Wacht op uitvoering	71.718	781.794
+442	30 OTAP Implementeren op test	Wacht op uitvoering	71.718	781.795
+443	20 OTAP Bouw	In uitvoering	71.718	781.796
+444	90 OTAP Bijwerken CMDB	Wacht op uitvoering	71.718	781.788
+445	45 OTAP GAT test	Wacht op uitvoering	71.718	781.792
+446	99 AP-Model Evaluatie	Wacht op uitvoering	66.925	726.863
+447	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	66.925	726.864
+448	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	66.925	726.865
+449	60 AP-Model Implementeren op productie	In uitvoering	66.925	726.866
+450	80 AP-Model  Accepteren van de wijziging	In uitvoering	67.830	737.066
+451	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	67.830	737.065
+452	99 AP-Model Evaluatie	Wacht op uitvoering	67.830	737.064
+453	99 AP-Model Evaluatie	Wacht op uitvoering	70.805	772.134
+454	80 AP-Model  Accepteren van de wijziging	In uitvoering	70.805	772.136
+455	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	70.805	772.135
+456	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	70.995	774.222
+457	99 AP-Model Evaluatie	Wacht op uitvoering	70.995	774.221
+458	80 AP-Model  Accepteren van de wijziging	In uitvoering	70.995	774.223
+459	80 Verkort model Acceptatie vd wijziging	In uitvoering	71.051	774.721
+460	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.051	774.720
+461	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.051	774.719
+462	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.318	777.787
+463	80 Verkort model Acceptatie vd wijziging	In uitvoering	71.318	777.789
+464	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.318	777.788
+465	90 Verkort model Bijwerken CMDB	In uitvoering	71.349	778.046
+466	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.349	778.045
+467	80 Verkort model Acceptatie vd wijziging	In uitvoering	71.749	782.133
+468	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.749	782.132
+469	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.749	782.131
+470	99 AP-Model Evaluatie	Wacht op uitvoering	71.750	782.148
+471	80 AP-Model  Accepteren van de wijziging	In uitvoering	71.750	782.150
+472	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	71.750	782.149
+473	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.763	782.307
+474	80 Verkort model Acceptatie vd wijziging	In uitvoering	71.763	782.309
+475	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.763	782.308
+476	90 P-Model Bijwerken CMDB	Wacht op uitvoering	67.922	738.479
+477	80 P-Mode  Accepteren van de wijziging	Wacht op uitvoering	67.922	738.480
+478	99 P-Model Evaluatie	Wacht op uitvoering	67.922	738.478
+479	10 P-Model intake	In uitvoering	67.922	738.483
+480	20 P-Model bouw	Wacht op uitvoering	67.922	738.482
+481	60 P-Model Implementeren op productie	Wacht op uitvoering	67.922	738.481
+482	80 Verkort model Acceptatie vd wijziging	Wacht op uitvoering	71.849	783.205
+483	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.849	783.204
+484	60 Verkort model Implementeren op productie	Wacht op uitvoering	71.849	783.206
+485	50 Verkort Vrijgave wijziging	Wacht op uitvoering	71.849	783.207
+486	10 Verkort model Intake	In uitvoering	71.849	783.208
+487	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.849	783.203
+488	90 OTAP Bijwerken CMDB	Wacht op uitvoering	67.251	730.622
+489	40 OTAP Implementeren op acceptatie	In uitvoering	67.251	730.627
+490	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	67.251	730.621
+491	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	67.251	730.623
+492	60 OTAP Implementeren op productie	Wacht op uitvoering	67.251	730.624
+493	50 OTAP Vrijgave wijziging	Wacht op uitvoering	67.251	730.625
+494	45 OTAP GAT test	Wacht op uitvoering	67.251	730.626
+495	99 P-Model Evaluatie	Wacht op uitvoering	67.727	735.907
+496	90 P-Model Bijwerken CMDB	In uitvoering	67.727	735.908
+497	35 KPW Funct. test	In uitvoering	69.400	755.714
+498	45 KPW Gat test 	Wacht op uitvoering	69.400	755.713
+499	60 KPW Impl.op productie 	Wacht op uitvoering	69.400	755.712
+500	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	69.400	755.711
+501	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	71.041	774.619
+502	99 AP-Model Evaluatie	Wacht op uitvoering	71.041	774.615
+503	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	71.041	774.616
+504	60 AP-Model Implementeren op productie	Wacht op uitvoering	71.041	774.618
+505	45 AP-Model GAT test	Wacht op uitvoering	71.041	774.620
+506	40 AP-Model Implementeren op acceptatie 	In uitvoering	71.041	774.621
+507	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	71.041	774.617
+508	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	71.194	776.334
+509	60 AP-Model Implementeren op productie	Wacht op uitvoering	71.194	776.333
+510	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	71.194	776.332
+511	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	71.194	776.331
+512	99 AP-Model Evaluatie	Wacht op uitvoering	71.194	776.330
+513	45 AP-Model GAT test	In uitvoering	71.194	776.335
+514	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.878	783.617
+515	10 Verkort model Intake	In uitvoering	71.878	783.622
+516	50 Verkort Vrijgave wijziging	Wacht op uitvoering	71.878	783.621
+517	60 Verkort model Implementeren op productie	Wacht op uitvoering	71.878	783.620
+518	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.878	783.618
+519	80 Verkort model Acceptatie vd wijziging	Wacht op uitvoering	71.878	783.619
+520	45 KPW Gat test 	Wacht op uitvoering	69.204	753.464
+521	60 KPW Impl.op productie 	Wacht op uitvoering	69.204	753.463
+522	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	69.204	753.462
+523	35 KPW Funct. test	In uitvoering	69.204	753.465
+524	45 KPW Gat test 	Wacht op uitvoering	69.201	753.439
+525	60 KPW Impl.op productie 	Wacht op uitvoering	69.201	753.438
+526	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	69.201	753.437
+527	35 KPW Funct. test	In uitvoering	69.201	753.440
+528	80 Verkort model Acceptatie vd wijziging	In uitvoering	68.313	743.201
+529	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	68.313	743.200
+530	99 Verkort model  Evaluatie 	Wacht op uitvoering	68.313	743.199
+531	35 KPW Funct. test	In uitvoering	68.312	743.197
+532	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.312	743.194
+533	60 KPW Impl.op productie 	Wacht op uitvoering	68.312	743.195
+534	45 KPW Gat test 	Wacht op uitvoering	68.312	743.196
+535	45 KPW Gat test 	Wacht op uitvoering	68.310	743.186
+536	60 KPW Impl.op productie 	Wacht op uitvoering	68.310	743.185
+537	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.310	743.184
+538	35 KPW Funct. test	In uitvoering	68.310	743.187
+539	35 KPW Funct. test	In uitvoering	68.311	743.192
+540	45 KPW Gat test 	Wacht op uitvoering	68.311	743.191
+541	60 KPW Impl.op productie 	Wacht op uitvoering	68.311	743.190
+542	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	68.311	743.189
+543	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.308	743.167
+544	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.308	743.166
+545	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.308	743.168
+546	60 OTAP Implementeren op productie	Wacht op uitvoering	68.308	743.169
+547	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.308	743.170
+548	45 OTAP GAT test	In uitvoering	68.308	743.171
+549	35 OTAP Functionele test	Wacht op uitvoering	68.404	744.088
+550	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.404	744.081
+551	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.404	744.082
+552	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.404	744.083
+553	60 OTAP Implementeren op productie	Wacht op uitvoering	68.404	744.084
+554	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.404	744.085
+555	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.404	744.087
+556	30 OTAP Implementeren op test	Wacht op uitvoering	68.404	744.089
+557	20 OTAP Bouw	In uitvoering	68.404	744.090
+558	45 OTAP GAT test	Wacht op uitvoering	68.404	744.086
+559	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	63.979	694.301
+560	90 OTAP Bijwerken CMDB	Wacht op uitvoering	63.979	694.302
+561	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	63.979	694.303
+562	60 OTAP Implementeren op productie	Wacht op uitvoering	63.979	694.304
+563	45 OTAP GAT test	In uitvoering	63.979	694.306
+564	50 OTAP Vrijgave wijziging	Wacht op uitvoering	63.979	694.305
+565	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	64.349	698.486
+566	60 AP-Model Implementeren op productie	Wacht op uitvoering	64.349	698.485
+567	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	64.349	698.484
+568	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	64.349	698.483
+569	99 AP-Model Evaluatie	Wacht op uitvoering	64.349	698.482
+570	45 AP-Model GAT test	In uitvoering	64.349	698.487
+571	60 OTAP Implementeren op productie	Wacht op uitvoering	65.859	714.882
+572	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	65.859	714.879
+573	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	65.859	714.881
+574	50 OTAP Vrijgave wijziging	Wacht op uitvoering	65.859	714.883
+575	45 OTAP GAT test	In uitvoering	65.859	714.884
+576	90 OTAP Bijwerken CMDB	Wacht op uitvoering	65.859	714.880
+577	20 OTAP Bouw	In uitvoering	68.403	744.079
+578	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	68.403	744.070
+579	90 OTAP Bijwerken CMDB	Wacht op uitvoering	68.403	744.071
+580	60 OTAP Implementeren op productie	Wacht op uitvoering	68.403	744.073
+581	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	68.403	744.072
+582	45 OTAP GAT test	Wacht op uitvoering	68.403	744.075
+583	40 OTAP Implementeren op acceptatie	Wacht op uitvoering	68.403	744.076
+584	30 OTAP Implementeren op test	Wacht op uitvoering	68.403	744.078
+585	35 OTAP Functionele test	Wacht op uitvoering	68.403	744.077
+586	50 OTAP Vrijgave wijziging	Wacht op uitvoering	68.403	744.074
+587	50 Verkort Vrijgave wijziging	In uitvoering	71.827	783.095
+588	60 Verkort model Implementeren op productie	Wacht op uitvoering	71.827	783.094
+589	80 Verkort model Acceptatie vd wijziging	Wacht op uitvoering	71.827	783.093
+590	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	71.827	783.092
+591	99 Verkort model  Evaluatie 	Wacht op uitvoering	71.827	783.091
+592	60 AP-Model Implementeren op productie	Wacht op uitvoering	71.841	783.117
+593	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	71.841	783.115
+594	99 AP-Model Evaluatie	Wacht op uitvoering	71.841	783.114
+595	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	71.841	783.116
+596	45 AP-Model GAT test	Wacht op uitvoering	71.841	783.119
+597	20 AP-Model Bouw	In uitvoering	71.841	783.121
+598	40 AP-Model Implementeren op acceptatie 	Wacht op uitvoering	71.841	783.120
+599	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	71.841	783.118
+600	80 Verkort model Acceptatie vd wijziging	In uitvoering	66.570	722.962
+601	90 Verkort model Bijwerken CMDB	Wacht op uitvoering	66.570	722.961
+602	99 Verkort model  Evaluatie 	Wacht op uitvoering	66.570	722.960
+603	60 OTAP Implementeren op productie	Wacht op uitvoering	66.572	722.986
+604	99 OTAP Evalueren van de wijziging	Wacht op uitvoering	66.572	722.983
+605	80 OTAP Accepteren van de wijziging	Wacht op uitvoering	66.572	722.985
+606	50 OTAP Vrijgave wijziging	Wacht op uitvoering	66.572	722.987
+607	45 OTAP GAT test	Wacht op uitvoering	66.572	722.988
+608	40 OTAP Implementeren op acceptatie	In uitvoering	66.572	722.989
+609	90 OTAP Bijwerken CMDB	Wacht op uitvoering	66.572	722.984
+610	35 KPW Funct. test	In uitvoering	66.573	722.997
+611	45 KPW Gat test 	Wacht op uitvoering	66.573	722.996
+612	60 KPW Impl.op productie 	Wacht op uitvoering	66.573	722.995
+613	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	66.573	722.994
+614	35 KPW Funct. test	In uitvoering	66.595	723.234
+615	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	66.595	723.231
+616	45 KPW Gat test 	Wacht op uitvoering	66.595	723.233
+617	60 KPW Impl.op productie 	Wacht op uitvoering	66.595	723.232
+618	99 AP-Model Evaluatie	Wacht op uitvoering	66.596	723.236
+619	45 AP-Model GAT test	In uitvoering	66.596	723.241
+620	50 AP-Model Vrijgave wijziging	Wacht op uitvoering	66.596	723.240
+621	60 AP-Model Implementeren op productie	Wacht op uitvoering	66.596	723.239
+622	80 AP-Model  Accepteren van de wijziging	Wacht op uitvoering	66.596	723.238
+623	90 AP-Model Bijwerken CMDB	Wacht op uitvoering	66.596	723.237
+624	35 KPW Funct. test	In uitvoering	69.399	755.709
+625	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	69.399	755.706
+626	45 KPW Gat test 	Wacht op uitvoering	69.399	755.708
+627	60 KPW Impl.op productie 	Wacht op uitvoering	69.399	755.707
+628	99 KPW Evaluatie vd wijziging 	Wacht op uitvoering	66.597	723.245
+629	60 KPW Impl.op productie 	Wacht op uitvoering	66.597	723.246
+630	35 KPW Funct. test	In uitvoering	66.597	723.248
+631	45 KPW Gat test 	Wacht op uitvoering	66.597	723.247
