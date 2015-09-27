@@ -1,0 +1,1158 @@
+'Wijziging;Project;ID'	'Wijziging;ID'	'Wijziging;Korte omschrijving'	'Wijziging;Status'	'Wijziging;Categorie'	'ID'	'Korte omschrijving'	'Status'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.682'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.681'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.680'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.679'	'35 OTAP Functionele test'	'In uitvoering'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.678'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.677'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.676'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.675'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.674'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.673'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'62.004'	'ADFS configureren voor webapplicatie RET'	'In uitvoering'	'CAT1'	'673.672'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.449'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.448'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.447'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.446'	'35 OTAP Functionele test'	'In uitvoering'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.445'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.444'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.443'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.442'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.441'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.440'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'62.067'	'RET: migratie naar nieuw c# platform'	'In uitvoering'	'CAT1'	'674.439'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.460'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.459'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.458'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.457'	'35 OTAP Functionele test'	'In uitvoering'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.456'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.455'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.454'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.453'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.452'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.451'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'62.068'	'RET: configureren ISA voor nieuwe omgeving'	'In uitvoering'	'CAT1'	'674.450'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.233'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.232'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.231'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.230'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.229'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.228'	'45 OTAP GAT test'	'Is uitgevoerd'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.227'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.226'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.225'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.224'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'63.773'	'standcodering: migratie naar diensten'	'In uitvoering'	'CAT1'	'692.223'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.311'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.310'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.309'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.308'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.307'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.306'	'45 OTAP GAT test'	'In uitvoering'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.305'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.304'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.303'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.302'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'63.979'	'BRV:  migratie naar diensten'	'In uitvoering'	'CAT1'	'694.301'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.477'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.476'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.475'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.474'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.473'	'40 OTAP Implementeren op acceptatie'	'In uitvoering'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.472'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.471'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.470'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.469'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.468'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'64.093'	'RME: Meetmiddelen intern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'695.467'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'64.095'	'RME: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'695.516'	'20 KPW bouw'	'In uitvoering'
+'1.778'	'64.095'	'RME: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'695.515'	'35 KPW Funct. test'	'Wacht op uitvoering'
+'1.778'	'64.095'	'RME: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'695.514'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'64.095'	'RME: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'695.513'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'64.095'	'RME: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'695.512'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.394'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.393'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.392'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.391'	'45 AP-Model GAT test'	'In uitvoering'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.390'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.389'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.388'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.387'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'64.341'	'standcodering: aanvraag zzstandcodering op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.386'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.442'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.441'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.440'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.439'	'45 AP-Model GAT test'	'In uitvoering'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.438'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.437'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.436'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.435'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'64.345'	'rme: aanvraag zzwebrme op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.434'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.490'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.489'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.488'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.487'	'45 AP-Model GAT test'	'In uitvoering'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.486'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.485'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.484'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.483'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'64.349'	'brv: aanvraag zzwebbrv op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'698.482'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.453'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.452'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.451'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.450'	'45 AP-Model GAT test'	'In uitvoering'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.449'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.448'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.447'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.446'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'65.265'	'RIB: Aanvraag zzwebrib op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'708.445'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'65.266'	'RIB:Nieuwe DNS entry/entries voor RIB '	'In uitvoering'	'CAT0'	'708.469'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'65.266'	'RIB:Nieuwe DNS entry/entries voor RIB '	'In uitvoering'	'CAT0'	'708.468'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'65.266'	'RIB:Nieuwe DNS entry/entries voor RIB '	'In uitvoering'	'CAT0'	'708.467'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'65.266'	'RIB:Nieuwe DNS entry/entries voor RIB '	'In uitvoering'	'CAT0'	'708.466'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'65.266'	'RIB:Nieuwe DNS entry/entries voor RIB '	'In uitvoering'	'CAT0'	'708.465'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.480'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.479'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.478'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.477'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.476'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.475'	'45 OTAP GAT test'	'In uitvoering'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.474'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.473'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.472'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.471'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'65.267'	'RIB: migratie naar diensten'	'In uitvoering'	'CAT1'	'708.470'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'65.269'	'rib:Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'708.512'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'65.269'	'rib:Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'708.511'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'65.269'	'rib:Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'708.510'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'65.269'	'rib:Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'708.509'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'65.269'	'rib:Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'708.508'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.889'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.888'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.887'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.886'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.885'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.884'	'45 OTAP GAT test'	'In uitvoering'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.883'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.882'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.881'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.880'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'65.859'	'CNB dashboard: migratie naar diensten'	'In uitvoering'	'CAT1'	'714.879'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'66.563'	'FWE: Nieuwe DNS entry/entries voor FWE'	'In uitvoering'	'CAT0'	'722.909'	'20 KPW bouw'	'In uitvoering'
+'1.778'	'66.563'	'FWE: Nieuwe DNS entry/entries voor FWE'	'In uitvoering'	'CAT0'	'722.908'	'35 KPW Funct. test'	'Wacht op uitvoering'
+'1.778'	'66.563'	'FWE: Nieuwe DNS entry/entries voor FWE'	'In uitvoering'	'CAT0'	'722.907'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'66.563'	'FWE: Nieuwe DNS entry/entries voor FWE'	'In uitvoering'	'CAT0'	'722.906'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'66.563'	'FWE: Nieuwe DNS entry/entries voor FWE'	'In uitvoering'	'CAT0'	'722.905'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'66.566'	'FWE Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'722.937'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'66.566'	'FWE Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'722.936'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'66.566'	'FWE Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'722.935'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'66.566'	'FWE Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'722.934'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'66.566'	'FWE Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'722.933'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'66.567'	'FWE C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter FWE het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 WebFWE
+'	'In uitvoering'	'CAT0'	'722.942'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'66.567'	'FWE C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter FWE het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 WebFWE
+'	'In uitvoering'	'CAT0'	'722.941'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'66.567'	'FWE C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter FWE het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 WebFWE
+'	'In uitvoering'	'CAT0'	'722.940'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'66.567'	'FWE C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter FWE het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 WebFWE
+'	'In uitvoering'	'CAT0'	'722.939'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'66.567'	'FWE C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter FWE het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 WebFWE
+'	'In uitvoering'	'CAT0'	'722.938'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.953'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.952'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.951'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.950'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.949'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.948'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.947'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.946'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.945'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.944'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'66.568'	'FWE: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.943'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'66.569'	'FWE  raadplegen: aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.959'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'66.569'	'FWE  raadplegen: aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.958'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'66.569'	'FWE  raadplegen: aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.957'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'66.569'	'FWE  raadplegen: aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.956'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'66.569'	'FWE  raadplegen: aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.955'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'66.569'	'FWE  raadplegen: aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.954'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'66.570'	'Crwam aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.965'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'66.570'	'Crwam aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.964'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'66.570'	'Crwam aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.963'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'66.570'	'Crwam aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.962'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'66.570'	'Crwam aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.961'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'66.570'	'Crwam aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'722.960'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.993'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.992'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.991'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.990'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.989'	'40 OTAP Implementeren op acceptatie'	'In uitvoering'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.988'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.987'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.986'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.985'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.984'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'66.572'	'Crwam: migratie naar diensten'	'In uitvoering'	'CAT1'	'722.983'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'66.573'	'Crwam C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'722.998'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'66.573'	'Crwam C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'722.997'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'66.573'	'Crwam C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'722.996'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'66.573'	'Crwam C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'722.995'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'66.573'	'Crwam C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'722.994'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'66.595'	'Crwam Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'723.235'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'66.595'	'Crwam Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'723.234'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'66.595'	'Crwam Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'723.233'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'66.595'	'Crwam Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'723.232'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'66.595'	'Crwam Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'723.231'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.244'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.243'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.242'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.241'	'45 AP-Model GAT test'	'In uitvoering'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.240'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.239'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.238'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.237'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'66.596'	'Crwam Aanvraag zzcrwam op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'723.236'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'66.597'	'Crwam : Nieuwe DNS entry/entries voor Crwam'	'In uitvoering'	'CAT0'	'723.249'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'66.597'	'Crwam : Nieuwe DNS entry/entries voor Crwam'	'In uitvoering'	'CAT0'	'723.248'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'66.597'	'Crwam : Nieuwe DNS entry/entries voor Crwam'	'In uitvoering'	'CAT0'	'723.247'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'66.597'	'Crwam : Nieuwe DNS entry/entries voor Crwam'	'In uitvoering'	'CAT0'	'723.246'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'66.597'	'Crwam : Nieuwe DNS entry/entries voor Crwam'	'In uitvoering'	'CAT0'	'723.245'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.613'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.612'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.611'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.610'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.609'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.608'	'60 AP-Model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.607'	'80 AP-Model  Accepteren van de wijziging'	'In uitvoering'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.606'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'66.630'	'account zzwebrdd aanmaken voor OTAP'	'Geaccepteerd'	'CAT1'	'723.605'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.871'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.870'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.869'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.868'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.867'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.866'	'60 AP-Model Implementeren op productie'	'In uitvoering'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.865'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.864'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'66.925'	'Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving'	'Geaccepteerd'	'CAT1'	'726.863'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.631'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.630'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.629'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.628'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.627'	'40 OTAP Implementeren op acceptatie'	'In uitvoering'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.626'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.625'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.624'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.623'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.622'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'67.251'	'VIP1028 inrichten op O, T, A en P
+Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus.'	'In uitvoering'	'CAT1'	'730.621'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'67.727'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'In uitvoering'	'CAT1'	'735.912'	'10 P-Model intake'	'Is uitgevoerd'
+'1.778'	'67.727'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'In uitvoering'	'CAT1'	'735.911'	'20 P-Model bouw'	'Is uitgevoerd'
+'1.778'	'67.727'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'In uitvoering'	'CAT1'	'735.910'	'60 P-Model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'67.727'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'In uitvoering'	'CAT1'	'735.909'	'80 P-Mode  Accepteren van de wijziging'	'Is uitgevoerd'
+'1.778'	'67.727'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'In uitvoering'	'CAT1'	'735.908'	'90 P-Model Bijwerken CMDB'	'In uitvoering'
+'1.778'	'67.727'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'In uitvoering'	'CAT1'	'735.907'	'99 P-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.072'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.071'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.070'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.069'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.068'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.067'	'60 AP-Model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.066'	'80 AP-Model  Accepteren van de wijziging'	'In uitvoering'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.065'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'67.830'	'C# 4.5 webapplicatieservers toegang geven tot Oracle VIP''s.'	'Geaccepteerd'	'CAT0'	'737.064'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'67.922'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'Geregistreerd'	'CAT1'	'738.483'	'10 P-Model intake'	'In uitvoering'
+'1.778'	'67.922'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'Geregistreerd'	'CAT1'	'738.482'	'20 P-Model bouw'	'Wacht op uitvoering'
+'1.778'	'67.922'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'Geregistreerd'	'CAT1'	'738.481'	'60 P-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'67.922'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'Geregistreerd'	'CAT1'	'738.480'	'80 P-Mode  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'67.922'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'Geregistreerd'	'CAT1'	'738.479'	'90 P-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'67.922'	'Implementeren HMAC sleutels op C# .NET 4.5 platform'	'Geregistreerd'	'CAT1'	'738.478'	'99 P-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.122'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.121'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.120'	'30 OTAP Implementeren op test'	'In uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.119'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.118'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.117'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.116'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.115'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.114'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.113'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.300'	'Rer:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.112'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.301'	'RER: C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter RER het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 RER
+
+'	'In uitvoering'	'CAT0'	'743.127'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.301'	'RER: C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter RER het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 RER
+
+'	'In uitvoering'	'CAT0'	'743.126'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.301'	'RER: C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter RER het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 RER
+
+'	'In uitvoering'	'CAT0'	'743.125'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.301'	'RER: C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter RER het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 RER
+
+'	'In uitvoering'	'CAT0'	'743.124'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.301'	'RER: C# 4.5 applicatie via script toevoegen in ADFS
+Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter RER het volgende script uitgevoerd te worden:
+
+d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 RER
+
+'	'In uitvoering'	'CAT0'	'743.123'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.302'	'RER: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.132'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.302'	'RER: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.131'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.302'	'RER: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.130'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.302'	'RER: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.129'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.302'	'RER: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.128'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.303'	'RER:Nieuwe DNS entry/entries voor RER'	'In uitvoering'	'CAT0'	'743.137'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.303'	'RER:Nieuwe DNS entry/entries voor RER'	'In uitvoering'	'CAT0'	'743.136'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.303'	'RER:Nieuwe DNS entry/entries voor RER'	'In uitvoering'	'CAT0'	'743.135'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.303'	'RER:Nieuwe DNS entry/entries voor RER'	'In uitvoering'	'CAT0'	'743.134'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.303'	'RER:Nieuwe DNS entry/entries voor RER'	'In uitvoering'	'CAT0'	'743.133'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.305'	'RER aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.152'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'68.305'	'RER aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.151'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'68.305'	'RER aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.150'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'68.305'	'RER aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.149'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'68.305'	'RER aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.148'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.305'	'RER aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.147'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.176'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.175'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.174'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.173'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.172'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.171'	'45 OTAP GAT test'	'In uitvoering'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.170'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.169'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.168'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.167'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.308'	'AMSweb:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'743.166'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.310'	'AMS webservice:  C# 4.5 applicatie via script toevoegen in ADFS
+
+
+'	'In uitvoering'	'CAT0'	'743.188'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.310'	'AMS webservice:  C# 4.5 applicatie via script toevoegen in ADFS
+
+
+'	'In uitvoering'	'CAT0'	'743.187'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.310'	'AMS webservice:  C# 4.5 applicatie via script toevoegen in ADFS
+
+
+'	'In uitvoering'	'CAT0'	'743.186'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.310'	'AMS webservice:  C# 4.5 applicatie via script toevoegen in ADFS
+
+
+'	'In uitvoering'	'CAT0'	'743.185'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.310'	'AMS webservice:  C# 4.5 applicatie via script toevoegen in ADFS
+
+
+'	'In uitvoering'	'CAT0'	'743.184'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.311'	'AMS webservice: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.193'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.311'	'AMS webservice: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.192'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.311'	'AMS webservice: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.191'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.311'	'AMS webservice: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.190'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.311'	'AMS webservice: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'743.189'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.312'	'AMS web:Nieuwe DNS entry/entries'	'In uitvoering'	'CAT0'	'743.198'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.312'	'AMS web:Nieuwe DNS entry/entries'	'In uitvoering'	'CAT0'	'743.197'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.312'	'AMS web:Nieuwe DNS entry/entries'	'In uitvoering'	'CAT0'	'743.196'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.312'	'AMS web:Nieuwe DNS entry/entries'	'In uitvoering'	'CAT0'	'743.195'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.312'	'AMS web:Nieuwe DNS entry/entries'	'In uitvoering'	'CAT0'	'743.194'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.313'	'AMS web aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.204'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'68.313'	'AMS web aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.203'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'68.313'	'AMS web aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.202'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'68.313'	'AMS web aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.201'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'68.313'	'AMS web aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.200'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.313'	'AMS web aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'743.199'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.978'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.977'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.976'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.975'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.974'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.973'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.972'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.971'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.970'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.969'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.386'	'Numgen: migratie naar diensten
+'	'In uitvoering'	'CAT1'	'743.968'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.080'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.079'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.078'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.077'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.076'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.075'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.074'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.073'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.072'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.071'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.403'	'cplus: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.070'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.091'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.090'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.089'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.088'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.087'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.086'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.085'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.084'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.083'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.082'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.404'	'brd: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.081'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.587'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.586'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.585'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.584'	'45 AP-Model GAT test'	'In uitvoering'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.583'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.582'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.581'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.580'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.442'	'account zzgaikbeheer aanmaken voor OTAP'	'In uitvoering'	'CAT1'	'744.579'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.950'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.949'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.948'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.947'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.946'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.945'	'45 OTAP GAT test'	'In uitvoering'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.944'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.943'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.942'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.941'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.471'	'Gaik beheer: migratie naar diensten'	'In uitvoering'	'CAT1'	'744.940'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.975'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.974'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.973'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.972'	'35 OTAP Functionele test'	'In uitvoering'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.971'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.970'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.969'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.968'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.967'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.966'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.474'	'Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim'	'In uitvoering'	'CAT1'	'744.965'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.038'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.037'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.036'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.035'	'35 OTAP Functionele test'	'In uitvoering'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.034'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.033'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.032'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.031'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.030'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.029'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.479'	'Gaik online: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'745.028'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.162'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.161'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.160'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.159'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.158'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.157'	'45 OTAP GAT test'	'In uitvoering'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.156'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.155'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.154'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.153'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.493'	'Gaik online: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.152'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.590'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.589'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.588'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.587'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.586'	'40 OTAP Implementeren op acceptatie'	'In uitvoering'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.585'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.584'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.583'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.582'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.581'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.523'	'ERHviewer: migratie naar diensten'	'In uitvoering'	'CAT1'	'745.580'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.623'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.622'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.621'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.620'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.619'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.618'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.617'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.616'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.615'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.614'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.806'	'SNG:: Migratie naar diensten'	'In uitvoering'	'CAT1'	'748.613'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.807'	'SNG e: Registreren standaard C# 4.5 applicatie in XML firewal'	'In uitvoering'	'CAT0'	'748.628'	'20 KPW bouw'	'In uitvoering'
+'1.778'	'68.807'	'SNG e: Registreren standaard C# 4.5 applicatie in XML firewal'	'In uitvoering'	'CAT0'	'748.627'	'35 KPW Funct. test'	'Wacht op uitvoering'
+'1.778'	'68.807'	'SNG e: Registreren standaard C# 4.5 applicatie in XML firewal'	'In uitvoering'	'CAT0'	'748.626'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.807'	'SNG e: Registreren standaard C# 4.5 applicatie in XML firewal'	'In uitvoering'	'CAT0'	'748.625'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.807'	'SNG e: Registreren standaard C# 4.5 applicatie in XML firewal'	'In uitvoering'	'CAT0'	'748.624'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.809'	'SNG: Nieuwe DNS entry/entries
+
+Informatie update verwijst niet naar federatie maar naar VIP 1128'	'In uitvoering'	'CAT0'	'748.644'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.809'	'SNG: Nieuwe DNS entry/entries
+
+Informatie update verwijst niet naar federatie maar naar VIP 1128'	'In uitvoering'	'CAT0'	'748.643'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.809'	'SNG: Nieuwe DNS entry/entries
+
+Informatie update verwijst niet naar federatie maar naar VIP 1128'	'In uitvoering'	'CAT0'	'748.642'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.809'	'SNG: Nieuwe DNS entry/entries
+
+Informatie update verwijst niet naar federatie maar naar VIP 1128'	'In uitvoering'	'CAT0'	'748.641'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.809'	'SNG: Nieuwe DNS entry/entries
+
+Informatie update verwijst niet naar federatie maar naar VIP 1128'	'In uitvoering'	'CAT0'	'748.640'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.810'	'SNG aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'748.650'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'68.810'	'SNG aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'748.649'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'68.810'	'SNG aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'748.648'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'68.810'	'SNG aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'748.647'	'80 Verkort model Acceptatie vd wijziging'	'Is uitgevoerd'
+'1.778'	'68.810'	'SNG aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'748.646'	'90 Verkort model Bijwerken CMDB'	'In uitvoering'
+'1.778'	'68.810'	'SNG aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'748.645'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'68.854'	'NIWO  aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'749.049'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'68.854'	'NIWO  aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'749.048'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'68.854'	'NIWO  aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'749.047'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'68.854'	'NIWO  aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'749.046'	'80 Verkort model Acceptatie vd wijziging'	'Is uitgevoerd'
+'1.778'	'68.854'	'NIWO  aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'749.045'	'90 Verkort model Bijwerken CMDB'	'In uitvoering'
+'1.778'	'68.854'	'NIWO  aanvraag  zz account door OTAP'	'Geaccepteerd'	'CAT1'	'749.044'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'68.855'	'Niwo:Nieuwe DNS entry/entries voor Niwo'	'In uitvoering'	'CAT0'	'749.054'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.855'	'Niwo:Nieuwe DNS entry/entries voor Niwo'	'In uitvoering'	'CAT0'	'749.053'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.855'	'Niwo:Nieuwe DNS entry/entries voor Niwo'	'In uitvoering'	'CAT0'	'749.052'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.855'	'Niwo:Nieuwe DNS entry/entries voor Niwo'	'In uitvoering'	'CAT0'	'749.051'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.855'	'Niwo:Nieuwe DNS entry/entries voor Niwo'	'In uitvoering'	'CAT0'	'749.050'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.856'	'Niwo: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'749.059'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.856'	'Niwo: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'749.058'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'68.856'	'Niwo: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'749.057'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'68.856'	'Niwo: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'749.056'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'68.856'	'Niwo: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'749.055'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.777'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.776'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.775'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.774'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.773'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.772'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.771'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.770'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.769'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.768'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.911'	'TCB, RMA en REF: migratie data'	'In uitvoering'	'CAT1'	'749.767'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.995'	'IKR: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'750.912'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'68.995'	'IKR: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'750.911'	'35 KPW Funct. test'	'Is uitgevoerd'
+'1.778'	'68.995'	'IKR: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'750.910'	'45 KPW Gat test '	'Is uitgevoerd'
+'1.778'	'68.995'	'IKR: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'750.909'	'60 KPW Impl.op productie '	'In uitvoering'
+'1.778'	'68.995'	'IKR: Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'750.908'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.923'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.922'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.921'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.920'	'35 OTAP Functionele test'	'In uitvoering'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.919'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.918'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.917'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.916'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.915'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.914'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'68.996'	'ikr: migratie naar diensten'	'In uitvoering'	'CAT1'	'750.913'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.200'	'RME Extern:Nieuwe DNS entry/entries voor RME extern'	'In uitvoering'	'CAT0'	'753.436'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'69.200'	'RME Extern:Nieuwe DNS entry/entries voor RME extern'	'In uitvoering'	'CAT0'	'753.435'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'69.200'	'RME Extern:Nieuwe DNS entry/entries voor RME extern'	'In uitvoering'	'CAT0'	'753.434'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'69.200'	'RME Extern:Nieuwe DNS entry/entries voor RME extern'	'In uitvoering'	'CAT0'	'753.433'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'69.200'	'RME Extern:Nieuwe DNS entry/entries voor RME extern'	'In uitvoering'	'CAT0'	'753.432'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'69.201'	' RME extern :Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'753.441'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'69.201'	' RME extern :Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'753.440'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'69.201'	' RME extern :Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'753.439'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'69.201'	' RME extern :Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'753.438'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'69.201'	' RME extern :Registreren standaard C# 4.5 applicatie in ISA'	'In uitvoering'	'CAT0'	'753.437'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.450'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.449'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.448'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.447'	'45 AP-Model GAT test'	'In uitvoering'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.446'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.445'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.444'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.443'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'69.202'	'RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten'	'In uitvoering'	'CAT1'	'753.442'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.461'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.460'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.459'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.458'	'35 OTAP Functionele test'	'In uitvoering'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.457'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.456'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.455'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.454'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.453'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.452'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'69.203'	'RME: Meetmiddelen extern :  migratie naar diensten'	'In uitvoering'	'CAT1'	'753.451'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.204'	' RME EXTERN: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'753.466'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'69.204'	' RME EXTERN: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'753.465'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'69.204'	' RME EXTERN: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'753.464'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'69.204'	' RME EXTERN: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'753.463'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'69.204'	' RME EXTERN: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'753.462'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'69.289'	'IKR: standaard adfs claim rule aanmaken'	'In uitvoering'	'CAT0'	'754.432'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'69.289'	'IKR: standaard adfs claim rule aanmaken'	'In uitvoering'	'CAT0'	'754.431'	'35 KPW Funct. test'	'Is uitgevoerd'
+'1.778'	'69.289'	'IKR: standaard adfs claim rule aanmaken'	'In uitvoering'	'CAT0'	'754.430'	'45 KPW Gat test '	'Is uitgevoerd'
+'1.778'	'69.289'	'IKR: standaard adfs claim rule aanmaken'	'In uitvoering'	'CAT0'	'754.429'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'69.289'	'IKR: standaard adfs claim rule aanmaken'	'In uitvoering'	'CAT0'	'754.428'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'69.399'	'CRWAM adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.710'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'69.399'	'CRWAM adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.709'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'69.399'	'CRWAM adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.708'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'69.399'	'CRWAM adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.707'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'69.399'	'CRWAM adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.706'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'69.400'	'meet middelen extern adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.715'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'69.400'	'meet middelen extern adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.714'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'69.400'	'meet middelen extern adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.713'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'69.400'	'meet middelen extern adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.712'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'69.400'	'meet middelen extern adfs aanvraag ivm C# Migratie'	'In uitvoering'	'CAT1'	'755.711'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.472'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.471'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.470'	'30 OTAP Implementeren op test'	'In uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.469'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.468'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.467'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.466'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.465'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.464'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.463'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'69.442'	'EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.462'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.445'	'EDS - OVIZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.532'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'69.445'	'EDS - OVIZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.531'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'69.445'	'EDS - OVIZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.530'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'69.445'	'EDS - OVIZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.529'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'69.445'	'EDS - OVIZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.528'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'69.445'	'EDS - OVIZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.527'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.565'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.564'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.563'	'30 OTAP Implementeren op test'	'In uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.562'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.561'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.560'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.559'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.558'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.557'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.556'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'69.448'	'EDS - OVIZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.555'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.898'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.897'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.896'	'30 OTAP Implementeren op test'	'In uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.895'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.894'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.893'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.892'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.891'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.890'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.889'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'69.477'	'EDS - RBCZ: aanpassen ISA'	'In uitvoering'	'CAT1'	'756.888'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.478'	'EDS - RBCZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.915'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'69.478'	'EDS - RBCZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.914'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'69.478'	'EDS - RBCZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.913'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'69.478'	'EDS - RBCZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.912'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'69.478'	'EDS - RBCZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.911'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'69.478'	'EDS - RBCZ: aanmaken zz accounts'	'Geaccepteerd'	'CAT1'	'756.910'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.926'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.925'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.924'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.923'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.922'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.921'	'45 OTAP GAT test'	'In uitvoering'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.920'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.919'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.918'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.917'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'69.479'	'EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform'	'In uitvoering'	'CAT1'	'756.916'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.678'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.677'	'20 OTAP Bouw'	'Is uitgevoerd'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.676'	'30 OTAP Implementeren op test'	'Is uitgevoerd'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.675'	'35 OTAP Functionele test'	'Is uitgevoerd'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.674'	'40 OTAP Implementeren op acceptatie'	'Is uitgevoerd'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.673'	'45 OTAP GAT test'	'In uitvoering'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.672'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.671'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.670'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.669'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.618'	'Niwo :: Migratie naar diensten'	'In uitvoering'	'CAT1'	'769.668'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.743'	'EDS OVIZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.381'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'70.743'	'EDS OVIZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.380'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'70.743'	'EDS OVIZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.379'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.743'	'EDS OVIZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.378'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.743'	'EDS OVIZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.377'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.744'	'EDS RBCZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.397'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'70.744'	'EDS RBCZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.396'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'70.744'	'EDS RBCZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.395'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.744'	'EDS RBCZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.394'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.744'	'EDS RBCZ - aanvraag DNS entries tbv C# migratie'	'In uitvoering'	'CAT0'	'771.393'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.745'	'EDS OVIZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.414'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'70.745'	'EDS OVIZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.413'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'70.745'	'EDS OVIZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.412'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'70.745'	'EDS OVIZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.411'	'80 Verkort model Acceptatie vd wijziging'	'Is uitgevoerd'
+'1.778'	'70.745'	'EDS OVIZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.410'	'90 Verkort model Bijwerken CMDB'	'In uitvoering'
+'1.778'	'70.745'	'EDS OVIZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.409'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'70.746'	'EDS RBCZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.431'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'70.746'	'EDS RBCZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.430'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'70.746'	'EDS RBCZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.429'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'70.746'	'EDS RBCZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.428'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'70.746'	'EDS RBCZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.427'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.746'	'EDS RBCZ - ADFS rule aanmaken op OT omgeving ivm C# migratie'	'Geaccepteerd'	'CAT1'	'771.426'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.142'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.141'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.140'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.139'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.138'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.137'	'60 AP-Model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.136'	'80 AP-Model  Accepteren van de wijziging'	'In uitvoering'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.135'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.805'	'Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform.'	'Geaccepteerd'	'CAT1'	'772.134'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.415'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.414'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.413'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.412'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.411'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.410'	'60 AP-Model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.409'	'80 AP-Model  Accepteren van de wijziging'	'In uitvoering'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.408'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.823'	'EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch '	'Geaccepteerd'	'CAT1'	'772.407'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.489'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.488'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.487'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.486'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.485'	'50 AP-Model Vrijgave wijziging'	'In uitvoering'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.484'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.483'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.482'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.829'	'EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving'	'In uitvoering'	'CAT1'	'772.481'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.509'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.508'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.507'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.506'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.505'	'50 AP-Model Vrijgave wijziging'	'In uitvoering'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.504'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.503'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.502'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.830'	'EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch'	'In uitvoering'	'CAT1'	'772.501'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'70.864'	'Katv: Aanvragen zz account voor migratie naar diensten'	'Geaccepteerd'	'CAT1'	'772.993'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'70.864'	'Katv: Aanvragen zz account voor migratie naar diensten'	'Geaccepteerd'	'CAT1'	'772.992'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'70.864'	'Katv: Aanvragen zz account voor migratie naar diensten'	'Geaccepteerd'	'CAT1'	'772.991'	'60 Verkort model Implementeren op productie'	'In uitvoering'
+'1.778'	'70.864'	'Katv: Aanvragen zz account voor migratie naar diensten'	'Geaccepteerd'	'CAT1'	'772.990'	'80 Verkort model Acceptatie vd wijziging'	'Wacht op uitvoering'
+'1.778'	'70.864'	'Katv: Aanvragen zz account voor migratie naar diensten'	'Geaccepteerd'	'CAT1'	'772.989'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.864'	'Katv: Aanvragen zz account voor migratie naar diensten'	'Geaccepteerd'	'CAT1'	'772.988'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'70.865'	'katv: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'772.998'	'20 KPW bouw'	'In uitvoering'
+'1.778'	'70.865'	'katv: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'772.997'	'35 KPW Funct. test'	'Wacht op uitvoering'
+'1.778'	'70.865'	'katv: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'772.996'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.865'	'katv: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'772.995'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.865'	'katv: C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'772.994'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.867'	'Katv: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.008'	'20 KPW bouw'	'In uitvoering'
+'1.778'	'70.867'	'Katv: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.007'	'35 KPW Funct. test'	'Wacht op uitvoering'
+'1.778'	'70.867'	'Katv: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.006'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.867'	'Katv: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.005'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.867'	'Katv: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.004'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.019'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.018'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.017'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.016'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.015'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.014'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.013'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.012'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.011'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.010'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.868'	'Katv :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.009'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.869'	'Inform: Aanvragen zz account voor migratie naar diensten'	'In uitvoering'	'CAT0'	'773.030'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'70.869'	'Inform: Aanvragen zz account voor migratie naar diensten'	'In uitvoering'	'CAT0'	'773.029'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'70.869'	'Inform: Aanvragen zz account voor migratie naar diensten'	'In uitvoering'	'CAT0'	'773.028'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.869'	'Inform: Aanvragen zz account voor migratie naar diensten'	'In uitvoering'	'CAT0'	'773.027'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.869'	'Inform: Aanvragen zz account voor migratie naar diensten'	'In uitvoering'	'CAT0'	'773.026'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.870'	'Inform C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'773.035'	'20 KPW bouw'	'In uitvoering'
+'1.778'	'70.870'	'Inform C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'773.034'	'35 KPW Funct. test'	'Wacht op uitvoering'
+'1.778'	'70.870'	'Inform C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'773.033'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.870'	'Inform C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'773.032'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.870'	'Inform C# 4.5 applicatie via script toevoegen in ADFS'	'In uitvoering'	'CAT0'	'773.031'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.871'	'Inform: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.040'	'20 KPW bouw'	'In uitvoering'
+'1.778'	'70.871'	'Inform: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.039'	'35 KPW Funct. test'	'Wacht op uitvoering'
+'1.778'	'70.871'	'Inform: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.038'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.871'	'Inform: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.037'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.871'	'Inform: Registreren standaard C# 4.5 applicatie in TMG'	'In uitvoering'	'CAT0'	'773.036'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.062'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.061'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.060'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.059'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.058'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.057'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.056'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.055'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.054'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.053'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.873'	'Inform :  migratie naar diensten'	'In uitvoering'	'CAT1'	'773.052'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'70.878'	'Inform: Nieuwe DNS entry/entries voor Inform'	'In uitvoering'	'CAT0'	'773.103'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'70.878'	'Inform: Nieuwe DNS entry/entries voor Inform'	'In uitvoering'	'CAT0'	'773.102'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'70.878'	'Inform: Nieuwe DNS entry/entries voor Inform'	'In uitvoering'	'CAT0'	'773.101'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.878'	'Inform: Nieuwe DNS entry/entries voor Inform'	'In uitvoering'	'CAT0'	'773.100'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.878'	'Inform: Nieuwe DNS entry/entries voor Inform'	'In uitvoering'	'CAT0'	'773.099'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.879'	'Katv: Nieuwe DNS entry/entries voor katv c# migratie'	'In uitvoering'	'CAT0'	'773.108'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'70.879'	'Katv: Nieuwe DNS entry/entries voor katv c# migratie'	'In uitvoering'	'CAT0'	'773.107'	'35 KPW Funct. test'	'In uitvoering'
+'1.778'	'70.879'	'Katv: Nieuwe DNS entry/entries voor katv c# migratie'	'In uitvoering'	'CAT0'	'773.106'	'45 KPW Gat test '	'Wacht op uitvoering'
+'1.778'	'70.879'	'Katv: Nieuwe DNS entry/entries voor katv c# migratie'	'In uitvoering'	'CAT0'	'773.105'	'60 KPW Impl.op productie '	'Wacht op uitvoering'
+'1.778'	'70.879'	'Katv: Nieuwe DNS entry/entries voor katv c# migratie'	'In uitvoering'	'CAT0'	'773.104'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'70.911'	'EDS Ordersearch - nieuwe serviceaccount tbv EDS Ordersearch (A en P omgeving)'	'Geaccepteerd'	'CAT1'	'773.386'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'70.911'	'EDS Ordersearch - nieuwe serviceaccount tbv EDS Ordersearch (A en P omgeving)'	'Geaccepteerd'	'CAT1'	'773.385'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'70.911'	'EDS Ordersearch - nieuwe serviceaccount tbv EDS Ordersearch (A en P omgeving)'	'Geaccepteerd'	'CAT1'	'773.384'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'70.911'	'EDS Ordersearch - nieuwe serviceaccount tbv EDS Ordersearch (A en P omgeving)'	'Geaccepteerd'	'CAT1'	'773.383'	'80 Verkort model Acceptatie vd wijziging'	'Is uitgevoerd'
+'1.778'	'70.911'	'EDS Ordersearch - nieuwe serviceaccount tbv EDS Ordersearch (A en P omgeving)'	'Geaccepteerd'	'CAT1'	'773.382'	'90 Verkort model Bijwerken CMDB'	'In uitvoering'
+'1.778'	'70.911'	'EDS Ordersearch - nieuwe serviceaccount tbv EDS Ordersearch (A en P omgeving)'	'Geaccepteerd'	'CAT1'	'773.381'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'70.974'	'Aanmaken OT\zzIPR-o account'	'Geaccepteerd'	'CAT1'	'774.006'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'70.974'	'Aanmaken OT\zzIPR-o account'	'Geaccepteerd'	'CAT1'	'774.005'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'70.974'	'Aanmaken OT\zzIPR-o account'	'Geaccepteerd'	'CAT1'	'774.004'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'70.974'	'Aanmaken OT\zzIPR-o account'	'Geaccepteerd'	'CAT1'	'774.003'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'70.974'	'Aanmaken OT\zzIPR-o account'	'Geaccepteerd'	'CAT1'	'774.002'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.974'	'Aanmaken OT\zzIPR-o account'	'Geaccepteerd'	'CAT1'	'774.001'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.229'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.228'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.227'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.226'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.225'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.224'	'60 AP-Model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.223'	'80 AP-Model  Accepteren van de wijziging'	'In uitvoering'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.222'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'70.995'	'Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.
+
+Gatdiensten: 
+RDW49030 > 10.222.6.30
+RDW49031 > 10.222.6.31
+
+Diensten:
+host 10.202.6.32
+host 10.202.6.33'	'Geaccepteerd'	'CAT0'	'774.221'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.332'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.331'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.330'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.329'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.328'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.327'	'60 AP-Model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.326'	'80 AP-Model  Accepteren van de wijziging'	'In uitvoering'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.325'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.005'	'EDS DTS - Implementatie SharePoint componenten'	'Geaccepteerd'	'CAT1'	'774.324'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.352'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.351'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.350'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.349'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.348'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.347'	'60 AP-Model Implementeren op productie'	'In uitvoering'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.346'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.345'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.006'	'EDS DTS - Implementatie Product catalog update script'	'Geaccepteerd'	'CAT1'	'774.344'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.623'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.622'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.621'	'40 AP-Model Implementeren op acceptatie '	'In uitvoering'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.620'	'45 AP-Model GAT test'	'Wacht op uitvoering'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.619'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.618'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.617'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.616'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.041'	'Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (''onderlangs'').'	'In uitvoering'	'CAT0'	'774.615'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'71.047'	'EDS RBCZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.683'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.047'	'EDS RBCZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.682'	'50 Verkort Vrijgave wijziging'	'In uitvoering'
+'1.778'	'71.047'	'EDS RBCZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.681'	'60 Verkort model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.047'	'EDS RBCZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.680'	'80 Verkort model Acceptatie vd wijziging'	'Wacht op uitvoering'
+'1.778'	'71.047'	'EDS RBCZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.679'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.047'	'EDS RBCZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.678'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.048'	'EDS OVIZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.700'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.048'	'EDS OVIZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.699'	'50 Verkort Vrijgave wijziging'	'In uitvoering'
+'1.778'	'71.048'	'EDS OVIZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.698'	'60 Verkort model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.048'	'EDS OVIZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.697'	'80 Verkort model Acceptatie vd wijziging'	'Wacht op uitvoering'
+'1.778'	'71.048'	'EDS OVIZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.696'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.048'	'EDS OVIZ - ADFS rule aanmaken op AP omgeving ivm C# migratie'	'In uitvoering'	'CAT1'	'774.695'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.051'	'toekennen autorisaties account'	'Geaccepteerd'	'CAT1'	'774.724'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.051'	'toekennen autorisaties account'	'Geaccepteerd'	'CAT1'	'774.723'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.051'	'toekennen autorisaties account'	'Geaccepteerd'	'CAT1'	'774.722'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.051'	'toekennen autorisaties account'	'Geaccepteerd'	'CAT1'	'774.721'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'71.051'	'toekennen autorisaties account'	'Geaccepteerd'	'CAT1'	'774.720'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.051'	'toekennen autorisaties account'	'Geaccepteerd'	'CAT1'	'774.719'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.052'	'EDS DTS - autorisatie: toevoegen role ?ctlg_CatalogWriterRole?  aan account  zzedsruntimesvc2 op A en P'	'Geaccepteerd'	'CAT1'	'774.741'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.052'	'EDS DTS - autorisatie: toevoegen role ?ctlg_CatalogWriterRole?  aan account  zzedsruntimesvc2 op A en P'	'Geaccepteerd'	'CAT1'	'774.740'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.052'	'EDS DTS - autorisatie: toevoegen role ?ctlg_CatalogWriterRole?  aan account  zzedsruntimesvc2 op A en P'	'Geaccepteerd'	'CAT1'	'774.739'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.052'	'EDS DTS - autorisatie: toevoegen role ?ctlg_CatalogWriterRole?  aan account  zzedsruntimesvc2 op A en P'	'Geaccepteerd'	'CAT1'	'774.738'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'71.052'	'EDS DTS - autorisatie: toevoegen role ?ctlg_CatalogWriterRole?  aan account  zzedsruntimesvc2 op A en P'	'Geaccepteerd'	'CAT1'	'774.737'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.052'	'EDS DTS - autorisatie: toevoegen role ?ctlg_CatalogWriterRole?  aan account  zzedsruntimesvc2 op A en P'	'Geaccepteerd'	'CAT1'	'774.736'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.338'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.337'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.336'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.335'	'45 AP-Model GAT test'	'In uitvoering'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.334'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.333'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.332'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.331'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.194'	'Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80'	'In uitvoering'	'CAT0'	'776.330'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'71.264'	'NPR:XSB service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie XSB201210'	'Geaccepteerd'	'CAT1'	'777.154'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.264'	'NPR:XSB service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie XSB201210'	'Geaccepteerd'	'CAT1'	'777.153'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.264'	'NPR:XSB service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie XSB201210'	'Geaccepteerd'	'CAT1'	'777.152'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.264'	'NPR:XSB service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie XSB201210'	'Geaccepteerd'	'CAT1'	'777.151'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'71.264'	'NPR:XSB service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie XSB201210'	'Geaccepteerd'	'CAT1'	'777.150'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.264'	'NPR:XSB service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie XSB201210'	'Geaccepteerd'	'CAT1'	'777.149'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.265'	'NPR: XSB srvice aanmaken/aanpassen DNS entries.'	'Geaccepteerd'	'CAT0'	'777.171'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.265'	'NPR: XSB srvice aanmaken/aanpassen DNS entries.'	'Geaccepteerd'	'CAT0'	'777.170'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.265'	'NPR: XSB srvice aanmaken/aanpassen DNS entries.'	'Geaccepteerd'	'CAT0'	'777.169'	'60 Verkort model Implementeren op productie'	'In uitvoering'
+'1.778'	'71.265'	'NPR: XSB srvice aanmaken/aanpassen DNS entries.'	'Geaccepteerd'	'CAT0'	'777.168'	'80 Verkort model Acceptatie vd wijziging'	'Wacht op uitvoering'
+'1.778'	'71.265'	'NPR: XSB srvice aanmaken/aanpassen DNS entries.'	'Geaccepteerd'	'CAT0'	'777.167'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.265'	'NPR: XSB srvice aanmaken/aanpassen DNS entries.'	'Geaccepteerd'	'CAT0'	'777.166'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.266'	'NPR:Geo service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie Geo201210'	'Geaccepteerd'	'CAT1'	'777.188'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.266'	'NPR:Geo service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie Geo201210'	'Geaccepteerd'	'CAT1'	'777.187'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.266'	'NPR:Geo service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie Geo201210'	'Geaccepteerd'	'CAT1'	'777.186'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.266'	'NPR:Geo service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie Geo201210'	'Geaccepteerd'	'CAT1'	'777.185'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'71.266'	'NPR:Geo service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie Geo201210'	'Geaccepteerd'	'CAT1'	'777.184'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.266'	'NPR:Geo service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie Geo201210'	'Geaccepteerd'	'CAT1'	'777.183'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.318'	'Aanmaken DNS voor OT domein'	'Geaccepteerd'	'CAT0'	'777.792'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.318'	'Aanmaken DNS voor OT domein'	'Geaccepteerd'	'CAT0'	'777.791'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.318'	'Aanmaken DNS voor OT domein'	'Geaccepteerd'	'CAT0'	'777.790'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.318'	'Aanmaken DNS voor OT domein'	'Geaccepteerd'	'CAT0'	'777.789'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'71.318'	'Aanmaken DNS voor OT domein'	'Geaccepteerd'	'CAT0'	'777.788'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.318'	'Aanmaken DNS voor OT domein'	'Geaccepteerd'	'CAT0'	'777.787'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.349'	'Aanpassen ACL op VIP028(-o).ot.tld'	'Geaccepteerd'	'CAT0'	'778.050'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.349'	'Aanpassen ACL op VIP028(-o).ot.tld'	'Geaccepteerd'	'CAT0'	'778.049'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.349'	'Aanpassen ACL op VIP028(-o).ot.tld'	'Geaccepteerd'	'CAT0'	'778.048'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.349'	'Aanpassen ACL op VIP028(-o).ot.tld'	'Geaccepteerd'	'CAT0'	'778.047'	'80 Verkort model Acceptatie vd wijziging'	'Is uitgevoerd'
+'1.778'	'71.349'	'Aanpassen ACL op VIP028(-o).ot.tld'	'Geaccepteerd'	'CAT0'	'778.046'	'90 Verkort model Bijwerken CMDB'	'In uitvoering'
+'1.778'	'71.349'	'Aanpassen ACL op VIP028(-o).ot.tld'	'Geaccepteerd'	'CAT0'	'778.045'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.797'	'10 OTAP Intake'	'Is uitgevoerd'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.796'	'20 OTAP Bouw'	'In uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.795'	'30 OTAP Implementeren op test'	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.794'	'35 OTAP Functionele test'	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.793'	'40 OTAP Implementeren op acceptatie'	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.792'	'45 OTAP GAT test'	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.791'	'50 OTAP Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.790'	'60 OTAP Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.789'	'80 OTAP Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.788'	'90 OTAP Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.718'	'VRD Beheer: toevoegen functionaliteit kenteken generator'	'In uitvoering'	'CAT1'	'781.787'	'99 OTAP Evalueren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'71.749'	'Powershell 4 op het WebHosting platform beschikbaar stellen.
+de machines RDW49001 t/m RDW49009 en RDW49030 t/m RDW49033
+'	'Geaccepteerd'	'CAT1'	'782.136'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.749'	'Powershell 4 op het WebHosting platform beschikbaar stellen.
+de machines RDW49001 t/m RDW49009 en RDW49030 t/m RDW49033
+'	'Geaccepteerd'	'CAT1'	'782.135'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.749'	'Powershell 4 op het WebHosting platform beschikbaar stellen.
+de machines RDW49001 t/m RDW49009 en RDW49030 t/m RDW49033
+'	'Geaccepteerd'	'CAT1'	'782.134'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.749'	'Powershell 4 op het WebHosting platform beschikbaar stellen.
+de machines RDW49001 t/m RDW49009 en RDW49030 t/m RDW49033
+'	'Geaccepteerd'	'CAT1'	'782.133'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'71.749'	'Powershell 4 op het WebHosting platform beschikbaar stellen.
+de machines RDW49001 t/m RDW49009 en RDW49030 t/m RDW49033
+'	'Geaccepteerd'	'CAT1'	'782.132'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.749'	'Powershell 4 op het WebHosting platform beschikbaar stellen.
+de machines RDW49001 t/m RDW49009 en RDW49030 t/m RDW49033
+'	'Geaccepteerd'	'CAT1'	'782.131'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.156'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.155'	'20 AP-Model Bouw'	'Is uitgevoerd'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.154'	'40 AP-Model Implementeren op acceptatie '	'Is uitgevoerd'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.153'	'45 AP-Model GAT test'	'Is uitgevoerd'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.152'	'50 AP-Model Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.151'	'60 AP-Model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.150'	'80 AP-Model  Accepteren van de wijziging'	'In uitvoering'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.149'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.750'	'In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy.
+Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten.
+Rechten worden uitgedeeld aan de groep WebInstaller.'	'Geaccepteerd'	'CAT1'	'782.148'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'71.763'	'toekennen autorisaties account
+'	'Geaccepteerd'	'CAT1'	'782.312'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.763'	'toekennen autorisaties account
+'	'Geaccepteerd'	'CAT1'	'782.311'	'50 Verkort Vrijgave wijziging'	'Is uitgevoerd'
+'1.778'	'71.763'	'toekennen autorisaties account
+'	'Geaccepteerd'	'CAT1'	'782.310'	'60 Verkort model Implementeren op productie'	'Is uitgevoerd'
+'1.778'	'71.763'	'toekennen autorisaties account
+'	'Geaccepteerd'	'CAT1'	'782.309'	'80 Verkort model Acceptatie vd wijziging'	'In uitvoering'
+'1.778'	'71.763'	'toekennen autorisaties account
+'	'Geaccepteerd'	'CAT1'	'782.308'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.763'	'toekennen autorisaties account
+'	'Geaccepteerd'	'CAT1'	'782.307'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.827'	'CROS: Aanmaken zzCros-a'	'In uitvoering'	'CAT1'	'783.096'	'10 Verkort model Intake'	'Is uitgevoerd'
+'1.778'	'71.827'	'CROS: Aanmaken zzCros-a'	'In uitvoering'	'CAT1'	'783.095'	'50 Verkort Vrijgave wijziging'	'In uitvoering'
+'1.778'	'71.827'	'CROS: Aanmaken zzCros-a'	'In uitvoering'	'CAT1'	'783.094'	'60 Verkort model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.827'	'CROS: Aanmaken zzCros-a'	'In uitvoering'	'CAT1'	'783.093'	'80 Verkort model Acceptatie vd wijziging'	'Wacht op uitvoering'
+'1.778'	'71.827'	'CROS: Aanmaken zzCros-a'	'In uitvoering'	'CAT1'	'783.092'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.827'	'CROS: Aanmaken zzCros-a'	'In uitvoering'	'CAT1'	'783.091'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.122'	'10 AP-Model intake'	'Is uitgevoerd'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.121'	'20 AP-Model Bouw'	'In uitvoering'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.120'	'40 AP-Model Implementeren op acceptatie '	'Wacht op uitvoering'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.119'	'45 AP-Model GAT test'	'Wacht op uitvoering'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.118'	'50 AP-Model Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.117'	'60 AP-Model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.116'	'80 AP-Model  Accepteren van de wijziging'	'Wacht op uitvoering'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.115'	'90 AP-Model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.841'	'Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools:
+'	'In uitvoering'	'CAT1'	'783.114'	'99 AP-Model Evaluatie'	'Wacht op uitvoering'
+'1.778'	'71.849'	'Open zetten SMB-koppeling vanuit OT, GATDIENSTEN en DIENSTEN naar de TFS.'	'Geregistreerd'	'CAT1'	'783.208'	'10 Verkort model Intake'	'In uitvoering'
+'1.778'	'71.849'	'Open zetten SMB-koppeling vanuit OT, GATDIENSTEN en DIENSTEN naar de TFS.'	'Geregistreerd'	'CAT1'	'783.207'	'50 Verkort Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'71.849'	'Open zetten SMB-koppeling vanuit OT, GATDIENSTEN en DIENSTEN naar de TFS.'	'Geregistreerd'	'CAT1'	'783.206'	'60 Verkort model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.849'	'Open zetten SMB-koppeling vanuit OT, GATDIENSTEN en DIENSTEN naar de TFS.'	'Geregistreerd'	'CAT1'	'783.205'	'80 Verkort model Acceptatie vd wijziging'	'Wacht op uitvoering'
+'1.778'	'71.849'	'Open zetten SMB-koppeling vanuit OT, GATDIENSTEN en DIENSTEN naar de TFS.'	'Geregistreerd'	'CAT1'	'783.204'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.849'	'Open zetten SMB-koppeling vanuit OT, GATDIENSTEN en DIENSTEN naar de TFS.'	'Geregistreerd'	'CAT1'	'783.203'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'
+'1.778'	'71.877'	'Nieuwe DNS entry/entries voor webrdd'	'In uitvoering'	'CAT0'	'783.581'	'20 KPW bouw'	'Is uitgevoerd'
+'1.778'	'71.877'	'Nieuwe DNS entry/entries voor webrdd'	'In uitvoering'	'CAT0'	'783.580'	'35 KPW Funct. test'	'Is uitgevoerd'
+'1.778'	'71.877'	'Nieuwe DNS entry/entries voor webrdd'	'In uitvoering'	'CAT0'	'783.579'	'45 KPW Gat test '	'Is uitgevoerd'
+'1.778'	'71.877'	'Nieuwe DNS entry/entries voor webrdd'	'In uitvoering'	'CAT0'	'783.578'	'60 KPW Impl.op productie '	'In uitvoering'
+'1.778'	'71.877'	'Nieuwe DNS entry/entries voor webrdd'	'In uitvoering'	'CAT0'	'783.577'	'99 KPW Evaluatie vd wijziging '	'Wacht op uitvoering'
+'1.778'	'71.878'	'Van WebHosting platform diensten de presentatie diensten webfarm toegang geven tot VIP209.
+
+Gatdiensten: 
+RDW49002 > 10.222.2.37
+RDW49003 > 10.222.2.39
+RDW49004 > 10.222.2.38
+RDW49005 > 10.222.2.40
+'	'Intake'	'CAT0'	'783.622'	'10 Verkort model Intake'	'In uitvoering'
+'1.778'	'71.878'	'Van WebHosting platform diensten de presentatie diensten webfarm toegang geven tot VIP209.
+
+Gatdiensten: 
+RDW49002 > 10.222.2.37
+RDW49003 > 10.222.2.39
+RDW49004 > 10.222.2.38
+RDW49005 > 10.222.2.40
+'	'Intake'	'CAT0'	'783.621'	'50 Verkort Vrijgave wijziging'	'Wacht op uitvoering'
+'1.778'	'71.878'	'Van WebHosting platform diensten de presentatie diensten webfarm toegang geven tot VIP209.
+
+Gatdiensten: 
+RDW49002 > 10.222.2.37
+RDW49003 > 10.222.2.39
+RDW49004 > 10.222.2.38
+RDW49005 > 10.222.2.40
+'	'Intake'	'CAT0'	'783.620'	'60 Verkort model Implementeren op productie'	'Wacht op uitvoering'
+'1.778'	'71.878'	'Van WebHosting platform diensten de presentatie diensten webfarm toegang geven tot VIP209.
+
+Gatdiensten: 
+RDW49002 > 10.222.2.37
+RDW49003 > 10.222.2.39
+RDW49004 > 10.222.2.38
+RDW49005 > 10.222.2.40
+'	'Intake'	'CAT0'	'783.619'	'80 Verkort model Acceptatie vd wijziging'	'Wacht op uitvoering'
+'1.778'	'71.878'	'Van WebHosting platform diensten de presentatie diensten webfarm toegang geven tot VIP209.
+
+Gatdiensten: 
+RDW49002 > 10.222.2.37
+RDW49003 > 10.222.2.39
+RDW49004 > 10.222.2.38
+RDW49005 > 10.222.2.40
+'	'Intake'	'CAT0'	'783.618'	'90 Verkort model Bijwerken CMDB'	'Wacht op uitvoering'
+'1.778'	'71.878'	'Van WebHosting platform diensten de presentatie diensten webfarm toegang geven tot VIP209.
+
+Gatdiensten: 
+RDW49002 > 10.222.2.37
+RDW49003 > 10.222.2.39
+RDW49004 > 10.222.2.38
+RDW49005 > 10.222.2.40
+'	'Intake'	'CAT0'	'783.617'	'99 Verkort model  Evaluatie '	'Wacht op uitvoering'

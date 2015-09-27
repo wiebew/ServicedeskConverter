@@ -1,0 +1,120 @@
+Applicatie	RFC	Omschrijving	Status	Categorie	10 OTAP Intake	20 OTAP Bouw	30 OTAP Implementeren op test	35 OTAP Functionele test	40 OTAP Implementeren op acceptatie	45 OTAP GAT test	50 OTAP Vrijgave wijziging	60 OTAP Implementeren op productie	80 OTAP Accepteren van de wijziging	90 OTAP Bijwerken CMDB	99 OTAP Evalueren van de wijziging	20 KPW bouw	35 KPW Funct. test	45 KPW Gat test 	60 KPW Impl.op productie 	99 KPW Evaluatie vd wijziging 	10 AP-Model intake	20 AP-Model Bouw	40 AP-Model Implementeren op acceptatie 	45 AP-Model GAT test	50 AP-Model Vrijgave wijziging	60 AP-Model Implementeren op productie	80 AP-Model  Accepteren van de wijziging	90 AP-Model Bijwerken CMDB	99 AP-Model Evaluatie	10 Verkort model Intake	50 Verkort Vrijgave wijziging	60 Verkort model Implementeren op productie	80 Verkort model Acceptatie vd wijziging	90 Verkort model Bijwerken CMDB	99 Verkort model  Evaluatie 	10 P-Model intake	20 P-Model bouw	60 P-Model Implementeren op productie	80 P-Mode  Accepteren van de wijziging	90 P-Model Bijwerken CMDB	99 P-Model Evaluatie
+"AMS WEB"	68.312	"AMS web:Nieuwe DNS entry/entries"	In uitvoering	CAT0												U	I	W	W	W																						
+	68.313	"AMS web aanvraag  zz account door OTAP"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	68.310	"AMS webservice:  C# 4.5 applicatie via script toevoegen in ADFS   "	In uitvoering	CAT0												U	I	W	W	W																						
+	68.311	"AMS webservice: Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0												U	I	W	W	W																						
+	68.308	"AMSweb:: Migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	U	I	W	W	W	W	W																											
+"BRD"	68.404	"brd: migratie naar diensten"	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+"BRV"	63.979	"BRV:  migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	U	I	W	W	W	W	W																											
+	64.349	"brv: aanvraag zzwebbrv op gatdiensten en diensten"	In uitvoering	CAT1																	U	U	U	I	W	W	W	W	W													
+"CNB DASHBOARD"	65.859	"CNB dashboard: migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	U	I	W	W	W	W	W																											
+"CPLUS"	68.403	"cplus: migratie naar diensten"	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+"CROS"	71.827	"CROS: Aanmaken zzCros-a"	In uitvoering	CAT1																										U	I	W	W	W	W							
+	71.841	"Cros: Installatie van de naar .net 4.5 gemigreerde services en aanmaken application pools: "	In uitvoering	CAT1																	U	I	W	W	W	W	W	W	W													
+"CRWAM"	66.570	"Crwam aanvraag  zz account door OTAP"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	66.572	"Crwam: migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	I	W	W	W	W	W	W																											
+	66.573	"Crwam C# 4.5 applicatie via script toevoegen in ADFS"	In uitvoering	CAT0												U	I	W	W	W																						
+	66.595	"Crwam Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0												U	I	W	W	W																						
+	66.596	"Crwam Aanvraag zzcrwam op gatdiensten en diensten"	In uitvoering	CAT1																	U	U	U	I	W	W	W	W	W													
+	66.597	"Crwam : Nieuwe DNS entry/entries voor Crwam"	In uitvoering	CAT0												U	I	W	W	W																						
+	69.399	"CRWAM adfs aanvraag ivm C# Migratie"	In uitvoering	CAT1												U	I	W	W	W																						
+"EDS - DTS"	71.005	"EDS DTS - Implementatie SharePoint componenten"	Geaccepteerd	CAT1																	U	U	U	U	U	U	I	W	W													
+	71.006	"EDS DTS - Implementatie Product catalog update script"	Geaccepteerd	CAT1																	U	U	U	U	U	I	W	W	W													
+	71.052	"EDS DTS - autorisatie: toevoegen role ?ctlg_CatalogWriterRole?  aan account  zzedsruntimesvc2 op A en P"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+"EDS - OVIZ"	69.442	"EDS - OVIZ: migratie naar het webhosting (c# 4.5) platform"	In uitvoering	CAT1	U	U	I	W	W	W	W	W	W	W	W																											
+	69.445	"EDS - OVIZ: aanmaken zz accounts"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	69.448	"EDS - OVIZ: aanpassen ISA"	In uitvoering	CAT1	U	U	I	W	W	W	W	W	W	W	W																											
+	70.743	"EDS OVIZ - aanvraag DNS entries tbv C# migratie"	In uitvoering	CAT0												U	I	W	W	W																						
+	70.745	"EDS OVIZ - ADFS rule aanmaken op OT omgeving ivm C# migratie"	Geaccepteerd	CAT1																										U	U	U	U	I	W							
+	71.048	"EDS OVIZ - ADFS rule aanmaken op AP omgeving ivm C# migratie"	In uitvoering	CAT1																										U	I	W	W	W	W							
+"EDS - RBCZ"	69.477	"EDS - RBCZ: aanpassen ISA"	In uitvoering	CAT1	U	U	I	W	W	W	W	W	W	W	W																											
+	69.478	"EDS - RBCZ: aanmaken zz accounts"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	69.479	"EDS - RBCZ: migratie naar het webhosting (c# 4.5) platform"	In uitvoering	CAT1	U	U	U	U	U	I	W	W	W	W	W																											
+	70.744	"EDS RBCZ - aanvraag DNS entries tbv C# migratie"	In uitvoering	CAT0												U	I	W	W	W																						
+	70.746	"EDS RBCZ - ADFS rule aanmaken op OT omgeving ivm C# migratie"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	71.047	"EDS RBCZ - ADFS rule aanmaken op AP omgeving ivm C# migratie"	In uitvoering	CAT1																										U	I	W	W	W	W							
+"EDS ORDERSEARCH"	70.823	"EDS Ordersearch - oplevering C# componenten tbv gemigreerde EDS Ordersearch "	Geaccepteerd	CAT1																	U	U	U	U	U	U	I	W	W													
+	70.829	"EDS Ordersearch - ADFS rule aanmaken tbv EDS Ordersearch A en P omgeving"	In uitvoering	CAT1																	U	U	U	U	I	W	W	W	W													
+	70.830	"EDS Ordersearch - TMG rules aanpassen A en P omgeving tbv EDS Ordersearch"	In uitvoering	CAT1																	U	U	U	U	I	W	W	W	W													
+	70.911	"EDS Ordersearch - nieuwe serviceaccount tbv EDS Ordersearch (A en P omgeving)"	Geaccepteerd	CAT1																										U	U	U	U	I	W							
+"EHRVIEWER"	68.523	"ERHviewer: migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	I	W	W	W	W	W	W																											
+"FWE"	66.566	"FWE Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0												U	I	W	W	W																						
+	66.567	"FWE C# 4.5 applicatie via script toevoegen in ADFS Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter FWE het volgende script uitgevoerd te worden:  d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 WebFWE "	In uitvoering	CAT0												U	I	W	W	W																						
+	66.563	"FWE: Nieuwe DNS entry/entries voor FWE"	In uitvoering	CAT0												I	W	W	W	W																						
+	66.568	"FWE: migratie naar diensten"	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+"FWE  RAADPLEGEN"	66.569	"FWE  raadplegen: aanvraag  zz account door OTAP"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+"GAIK BEHEER"	68.442	"account zzgaikbeheer aanmaken voor OTAP"	In uitvoering	CAT1																	U	U	U	I	W	W	W	W	W													
+	68.471	"Gaik beheer: migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	U	I	W	W	W	W	W																											
+"GAIK ONLINE"	68.474	"Gaik online: verwijderen oude adfs claim en toevoegen nieuwe claim"	In uitvoering	CAT1	U	U	U	I	W	W	W	W	W	W	W																											
+	68.479	"Gaik online: Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0	U	U	U	I	W	W	W	W	W	W	W																											
+	68.493	"Gaik online: migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	U	I	W	W	W	W	W																											
+"IKR"	68.995	"IKR: Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0												U	U	U	I	W																						
+	68.996	"ikr: migratie naar diensten"	In uitvoering	CAT1	U	U	U	I	W	W	W	W	W	W	W																											
+	69.289	"IKR: standaard adfs claim rule aanmaken"	In uitvoering	CAT0												U	U	U	W	W																						
+"INFORM "	70.869	"Inform: Aanvragen zz account voor migratie naar diensten"	In uitvoering	CAT0												U	I	W	W	W																						
+	70.870	"Inform C# 4.5 applicatie via script toevoegen in ADFS"	In uitvoering	CAT0												I	W	W	W	W																						
+	70.871	"Inform: Registreren standaard C# 4.5 applicatie in TMG"	In uitvoering	CAT0												I	W	W	W	W																						
+	70.873	"Inform :  migratie naar diensten"	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+	70.878	"Inform: Nieuwe DNS entry/entries voor Inform"	In uitvoering	CAT0												U	I	W	W	W																						
+"IPR"	70.974	"Aanmaken OT\zzIPR-o account"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+"KATV"	70.864	"Katv: Aanvragen zz account voor migratie naar diensten"	Geaccepteerd	CAT1																										U	U	I	W	W	W							
+	70.865	"katv: C# 4.5 applicatie via script toevoegen in ADFS"	In uitvoering	CAT0												I	W	W	W	W																						
+	70.867	"Katv: Registreren standaard C# 4.5 applicatie in TMG"	In uitvoering	CAT0												I	W	W	W	W																						
+	70.868	"Katv :  migratie naar diensten"	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+	70.879	"Katv: Nieuwe DNS entry/entries voor katv c# migratie"	In uitvoering	CAT0												U	I	W	W	W																						
+"NIWO"	68.854	"NIWO  aanvraag  zz account door OTAP"	Geaccepteerd	CAT1																										U	U	U	U	I	W							
+	68.855	"Niwo:Nieuwe DNS entry/entries voor Niwo"	In uitvoering	CAT0												U	I	W	W	W																						
+	68.856	"Niwo: Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0												U	I	W	W	W																						
+	70.618	"Niwo :: Migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	U	I	W	W	W	W	W																											
+"NPR"	71.264	"NPR:XSB service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie XSB201210"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	71.265	"NPR: XSB srvice aanmaken/aanpassen DNS entries."	Geaccepteerd	CAT0																										U	U	I	W	W	W							
+"NPR - GEO"	71.266	"NPR:Geo service OTAP serviceaccounts aanmaken voor C# 4.5 applicatie Geo201210"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+"NUMGEN"	68.386	"Numgen: migratie naar diensten "	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+"RDD"	66.630	"account zzwebrdd aanmaken voor OTAP"	Geaccepteerd	CAT1																	U	U	U	U	U	U	I	W	W													
+	71.877	"Nieuwe DNS entry/entries voor webrdd"	In uitvoering	CAT0												U	U	U	I	W																						
+"RER"	68.300	"Rer:: Migratie naar diensten"	In uitvoering	CAT1	U	U	I	W	W	W	W	W	W	W	W																											
+	68.301	"RER: C# 4.5 applicatie via script toevoegen in ADFS Op de actieve ADFS server in OT, GATDIENSTEN en DIENSTEN dient  met de parameter RER het volgende script uitgevoerd te worden:  d:\beheer\scripts\ADFS2\ Create-RelyingPartyTrust.PS1 RER  "	In uitvoering	CAT0												U	I	W	W	W																						
+	68.302	"RER: Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0												U	I	W	W	W																						
+	68.303	"RER:Nieuwe DNS entry/entries voor RER"	In uitvoering	CAT0												U	I	W	W	W																						
+	68.305	"RER aanvraag  zz account door OTAP"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+"RET"	62.004	"ADFS configureren voor webapplicatie RET"	In uitvoering	CAT1	U	U	U	I	W	W	W	W	W	W	W																											
+	62.067	"RET: migratie naar nieuw c# platform"	In uitvoering	CAT1	U	U	U	I	W	W	W	W	W	W	W																											
+	62.068	"RET: configureren ISA voor nieuwe omgeving"	In uitvoering	CAT1	U	U	U	I	W	W	W	W	W	W	W																											
+"RIB"	65.265	"RIB: Aanvraag zzwebrib op gatdiensten en diensten"	In uitvoering	CAT1																	U	U	U	I	W	W	W	W	W													
+	65.266	"RIB:Nieuwe DNS entry/entries voor RIB "	In uitvoering	CAT0												U	I	W	W	W																						
+	65.267	"RIB: migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	U	I	W	W	W	W	W																											
+	65.269	"rib:Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0												U	I	W	W	W																						
+"RME"	64.093	"RME: Meetmiddelen intern :  migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	I	W	W	W	W	W	W																											
+	64.095	"RME: C# 4.5 applicatie via script toevoegen in ADFS"	In uitvoering	CAT0												I	W	W	W	W																						
+	64.345	"rme: aanvraag zzwebrme op gatdiensten en diensten"	In uitvoering	CAT1																	U	U	U	I	W	W	W	W	W													
+	69.203	"RME: Meetmiddelen extern :  migratie naar diensten"	In uitvoering	CAT1	U	U	U	I	W	W	W	W	W	W	W																											
+"RME EXTERN"	69.200	"RME Extern:Nieuwe DNS entry/entries voor RME extern"	In uitvoering	CAT0												U	I	W	W	W																						
+	69.201	" RME extern :Registreren standaard C# 4.5 applicatie in ISA"	In uitvoering	CAT0												U	I	W	W	W																						
+	69.202	"RME EXTERN: aanvraag zz accounts rme extern op gatdiensten en diensten"	In uitvoering	CAT1																	U	U	U	I	W	W	W	W	W													
+	69.204	" RME EXTERN: C# 4.5 applicatie via script toevoegen in ADFS"	In uitvoering	CAT0												U	I	W	W	W																						
+"SNG"	68.806	"SNG:: Migratie naar diensten"	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+	68.807	"SNG e: Registreren standaard C# 4.5 applicatie in XML firewal"	In uitvoering	CAT0												I	W	W	W	W																						
+	68.809	"SNG: Nieuwe DNS entry/entries  Informatie update verwijst niet naar federatie maar naar VIP 1128"	In uitvoering	CAT0												U	I	W	W	W																						
+	68.810	"SNG aanvraag  zz account door OTAP"	Geaccepteerd	CAT1																										U	U	U	U	I	W							
+"STANDCODERING"	63.773	"standcodering: migratie naar diensten"	In uitvoering	CAT1	U	U	U	U	U	U	W	W	W	W	W																											
+	64.341	"standcodering: aanvraag zzstandcodering op gatdiensten en diensten"	In uitvoering	CAT1																	U	U	U	I	W	W	W	W	W													
+"TCB, RMA EN REF"	68.911	"TCB, RMA en REF: migratie data"	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+"VRD BEHEER"	71.718	"VRD Beheer: toevoegen functionaliteit kenteken generator"	In uitvoering	CAT1	U	I	W	W	W	W	W	W	W	W	W																											
+"UNASSIGNED"	66.925	"Uitrol Oracle 11.2 client op C#.NET 4.5 omgeving"	Geaccepteerd	CAT1																	U	U	U	U	U	I	W	W	W													
+	67.251	"VIP1028 inrichten op O, T, A en P Is een kopie van VIP028, maar dan voor ontsluiting van XML-FW op de bovenste bus."	In uitvoering	CAT1	U	U	U	U	I	W	W	W	W	W	W																											
+	67.727	"Implementeren HMAC sleutels op C# .NET 4.5 platform"	In uitvoering	CAT1																																U	U	U	U	I	W	
+	67.830	"C# 4.5 webapplicatieservers toegang geven tot Oracle VIPs."	Geaccepteerd	CAT0																	U	U	U	U	U	U	I	W	W													
+	67.922	"Implementeren HMAC sleutels op C# .NET 4.5 platform"	Geregistreerd	CAT1																																I	W	W	W	W	W	
+	69.400	"meet middelen extern adfs aanvraag ivm C# Migratie"	In uitvoering	CAT1												U	I	W	W	W																						
+	70.805	"Proxy Systeemaanpassing op Presentatie berichten webfarm van het WebHosting platform."	Geaccepteerd	CAT1																	U	U	U	U	U	U	I	W	W													
+	70.995	"Van WebHosting platform diensten de presentatie berichten webfarm toegang geven tot VIP066.  Gatdiensten:  RDW49030 > 10.222.6.30 RDW49031 > 10.222.6.31  Diensten: host 10.202.6.32 host 10.202.6.33"	Geaccepteerd	CAT0																	U	U	U	U	U	U	I	W	W													
+	71.041	"Van WebHosting platform diensten de presentatie (digitale diensten zone) webfarm toegang geven tot smbc0033 (onderlangs)."	In uitvoering	CAT0																	U	U	I	W	W	W	W	W	W													
+	71.051	"toekennen autorisaties account"	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	71.194	"Verzoek toegang instellen tot VIP024 (A en P omgeving), poort 80"	In uitvoering	CAT0																	U	U	U	I	W	W	W	W	W													
+	71.318	"Aanmaken DNS voor OT domein"	Geaccepteerd	CAT0																										U	U	U	I	W	W							
+	71.349	"Aanpassen ACL op VIP028(-o).ot.tld"	Geaccepteerd	CAT0																										U	U	U	U	I	W							
+	71.749	"Powershell 4 op het WebHosting platform beschikbaar stellen. de machines RDW49001 t/m RDW49009 en RDW49030 t/m RDW49033 "	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	71.750	"In OT, GATDIENSTEN en DIENSTEN domein rechten op serviceaccounts inrichten voor one-touch deploy. Dit om tijdens de installatie serviceaccounts aan te maken of ww te resetten. Rechten worden uitgedeeld aan de groep WebInstaller."	Geaccepteerd	CAT1																	U	U	U	U	U	U	I	W	W													
+	71.763	"toekennen autorisaties account "	Geaccepteerd	CAT1																										U	U	U	I	W	W							
+	71.849	"Open zetten SMB-koppeling vanuit OT, GATDIENSTEN en DIENSTEN naar de TFS."	Geregistreerd	CAT1																										I	W	W	W	W	W							
+	71.878	"Van WebHosting platform diensten de presentatie diensten webfarm toegang geven tot VIP209.  Gatdiensten:  RDW49002 > 10.222.2.37 RDW49003 > 10.222.2.39 RDW49004 > 10.222.2.38 RDW49005 > 10.222.2.40 "	Intake	CAT0																										I	W	W	W	W	W							
